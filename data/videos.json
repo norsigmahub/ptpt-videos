@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-04T15:26:27.819698+00:00",
-  "total_videos": 107,
-  "total_channels": 80,
+  "last_updated": "2026-03-04T20:31:15.302460+00:00",
+  "total_videos": 109,
+  "total_channels": 82,
   "videos": [
     {
       "id": "68zTeBI5q30",
@@ -814,6 +814,21 @@
       "pt_score": 0.52
     },
     {
+      "id": "9E8ZHWlOL8Y",
+      "title": "The Editory Hotels | SIC Jornal da Noite - Estações de Portugal: a viagem começa em Lisboa",
+      "channel_id": "UCNVZ7o9kJUhr8mz41yGC3hw",
+      "channel_name": "The Editory Collection Hotels",
+      "description": "O The Editory Riverside e o restaurante Impulso estiveram em destaque nesta reportagem da SIC Notícias dedicada às Estações de Portugal, mais especificamente às de Lisboa e, como não poderia deixar de ser, à de Santa Apolónia.",
+      "published_at": "2024-08-20T11:42:09Z",
+      "category_id": "19",
+      "category_name": "Travel & Events",
+      "thumbnail": "https://i.ytimg.com/vi/9E8ZHWlOL8Y/sddefault.jpg",
+      "duration": "PT14M17S",
+      "view_count": 5682,
+      "like_count": 58,
+      "pt_score": 0.5
+    },
+    {
       "id": "d5mtZPf4ZhA",
       "title": "FUI VER UM JOGO DA PIOR DIVISÃO EM PORTUGAL",
       "channel_id": "UCvwYb6PR2qJPP_BamLr_qrw",
@@ -1562,6 +1577,21 @@
       "view_count": 507,
       "like_count": 8,
       "pt_score": 0.52
+    },
+    {
+      "id": "4fyqFmXb2wU",
+      "title": "Guimarães (CIM do Ave) - mini-documentário (PT)",
+      "channel_id": "UCErZjc8tiAx-_fEnkPN78yw",
+      "channel_name": "Comunidade Intermunicipal do Ave",
+      "description": "A mini-documentary about Guimarães\nCoordination: Comunidade Intermunicipal do Ave\nProduction, CECS, University of Minho\nDirected by Martin Dale\nCinematography/Editing: Filipe Leite, João Braga, Martin Dale, Paulo Reis, Pedro Alves, Sérgio Costa, Vasco Ferreira\nMusic by Luke Daniel Neumann (Love Is, The Final Door, More than Pawns, The Singularity)\nDVD production: Formigueiro Lda.\nSupport: Municipality of Guimarães\nFinancing in framework of ON.2 of QREN",
+      "published_at": "2013-09-19T09:26:55Z",
+      "category_id": "1",
+      "category_name": "Film & Animation",
+      "thumbnail": "https://i.ytimg.com/vi/4fyqFmXb2wU/maxresdefault.jpg",
+      "duration": "PT11M20S",
+      "view_count": 76287,
+      "like_count": 742,
+      "pt_score": 0.5
     },
     {
       "id": "rwQCqspoTL8",
