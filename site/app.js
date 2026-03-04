@@ -110,12 +110,12 @@
     ${duration ? `<span class="card-duration">${esc(duration)}</span>` : ''}
   </div>
   <div class="card-body">
-    ${category ? `<div class="card-category">${esc(category)}</div>` : ''}
     <div class="card-title">${esc(video.title)}</div>
     <div class="card-channel">${esc(video.channel_name || '')}</div>
     <div class="card-meta">
-      ${views ? `<span>${esc(views)} visualizações</span>` : '<span></span>'}
-      <span>${esc(date)}</span>
+      ${views ? `<span>${esc(views)} visualizações</span>` : ''}
+      ${date ? `<span>${esc(date)}</span>` : ''}
+      ${category ? `<span>${esc(category)}</span>` : ''}
     </div>
   </div>
 </a>`;
