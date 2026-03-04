@@ -4,6 +4,27 @@
   'use strict';
 
   // -------------------------------------------------------------------------
+  // Category translations (YouTube → pt-PT)
+  // -------------------------------------------------------------------------
+  const CATEGORY_PT = {
+    'Education':             'Educação',
+    'Entertainment':         'Entretenimento',
+    'Film & Animation':      'Cinema & Animação',
+    'Howto & Style':         'Tutoriais & Estilo',
+    'Music':                 'Música',
+    'News & Politics':       'Notícias & Política',
+    'Nonprofits & Activism': 'Causas & Activismo',
+    'People & Blogs':        'Pessoas & Blogues',
+    'Science & Technology':  'Ciência & Tecnologia',
+    'Sports':                'Desporto',
+    'Travel & Events':       'Viagens & Eventos',
+  };
+
+  function translateCategory(cat) {
+    return CATEGORY_PT[cat] || cat;
+  }
+
+  // -------------------------------------------------------------------------
   // State
   // -------------------------------------------------------------------------
   const state = {
@@ -17,9 +38,6 @@
   // Formatting helpers
   // -------------------------------------------------------------------------
 
-  /**
-   * Parse an ISO 8601 duration (e.g. "PT1H5M30S") into a human string ("1:05:30").
-   */
   function formatDuration(iso) {
     if (!iso) return '';
     const m = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?/);
@@ -33,9 +51,6 @@
     return min + ':' + String(sec).padStart(2, '0');
   }
 
-  /**
-   * Format a view count to "1.2M", "34K", or plain number.
-   */
   function formatViews(n) {
     if (typeof n !== 'number' || isNaN(n)) return '';
     if (n >= 1_000_000) return (n / 1_000_000).toFixed(1) + 'M';
@@ -43,9 +58,6 @@
     return String(n);
   }
 
-  /**
-   * Format an ISO 8601 datetime string to a locale date string.
-   */
   function formatDate(iso) {
     if (!iso) return '';
     try {
@@ -59,9 +71,6 @@
     }
   }
 
-  /**
-   * Format the last_updated timestamp for the stats bar.
-   */
   function formatLastUpdated(iso) {
     if (!iso) return 'nunca';
     try {
@@ -78,9 +87,6 @@
   // Rendering
   // -------------------------------------------------------------------------
 
-  /**
-   * Escape HTML special characters to prevent XSS when injecting into innerHTML.
-   */
   function esc(str) {
     return String(str)
       .replace(/&/g, '&amp;')
@@ -96,6 +102,7 @@
     const duration = formatDuration(video.duration);
     const views = formatViews(video.view_count);
     const date = formatDate(video.published_at);
+    const category = video.category_name ? translateCategory(video.category_name) : '';
 
     return `<a href="${esc(ytUrl)}" target="_blank" rel="noopener noreferrer" class="video-card" aria-label="${esc(video.title)}">
   <div class="card-thumb-wrap">
@@ -103,7 +110,7 @@
     ${duration ? `<span class="card-duration">${esc(duration)}</span>` : ''}
   </div>
   <div class="card-body">
-    ${video.category_name ? `<div class="card-category">${esc(video.category_name)}</div>` : ''}
+    ${category ? `<div class="card-category">${esc(category)}</div>` : ''}
     <div class="card-title">${esc(video.title)}</div>
     <div class="card-channel">${esc(video.channel_name || '')}</div>
     <div class="card-meta">
@@ -122,7 +129,7 @@
       grid.innerHTML = '';
       noResults.classList.remove('hidden');
       document.getElementById('no-results-query').textContent =
-        state.searchQuery || state.activeCategory;
+        state.searchQuery || translateCategory(state.activeCategory);
     } else {
       noResults.classList.add('hidden');
       grid.innerHTML = filtered.map(renderCard).join('');
@@ -147,7 +154,7 @@
     const pills = ['all', ...Array.from(categories).sort()];
 
     wrap.innerHTML = pills.map((cat) => {
-      const label = cat === 'all' ? 'Todos' : cat;
+      const label = cat === 'all' ? 'Todos' : translateCategory(cat);
       const active = cat === state.activeCategory ? ' active' : '';
       return `<button class="category-pill${active}" data-category="${esc(cat)}">${esc(label)}</button>`;
     }).join('');
@@ -186,7 +193,6 @@
 
     renderGrid(results);
 
-    // Update stats to reflect filtered count
     const statEl = document.getElementById('stat-videos');
     if (statEl) {
       const fullData = window.__ptptData;
@@ -246,7 +252,6 @@
       return;
     }
 
-    // Collect unique categories
     const categories = new Set(
       state.videos.map((v) => v.category_name).filter(Boolean)
     );
