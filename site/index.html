@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PT-PT Videos — Índice de vídeos em português europeu</title>
+  <meta name="description" content="Índice pesquisável de vídeos do YouTube falados em português europeu (pt-PT), filtrados por categoria.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">PT-PT Videos</h1>
+      <p class="site-tagline">Vídeos do YouTube em português europeu</p>
+    </div>
+  </header>
+
+  <div class="controls-bar">
+    <div class="container">
+      <div class="search-wrap">
+        <label for="search" class="sr-only">Pesquisar vídeos</label>
+        <input
+          type="search"
+          id="search"
+          class="search-input"
+          placeholder="Pesquisar por título, canal ou descrição…"
+          autocomplete="off"
+          spellcheck="false"
+        >
+      </div>
+      <div class="categories-wrap" id="categories-wrap">
+        <!-- Category pills injected by app.js -->
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar" id="stats-bar">
+    <div class="container stats-inner">
+      <span id="stat-videos">A carregar…</span>
+    </div>
+  </div>
+
+  <main class="container" id="main-content">
+    <div class="video-grid" id="video-grid">
+      <div class="empty-state">
+        <p>A carregar vídeos…</p>
+      </div>
+    </div>
+    <div id="no-results" class="empty-state hidden">
+      <p>Nenhum vídeo encontrado para <strong id="no-results-query"></strong>.</p>
+      <button class="btn-reset" id="btn-reset">Limpar pesquisa</button>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Vídeos em português europeu (pt-PT) &middot; Actualizado diariamente</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
