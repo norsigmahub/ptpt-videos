@@ -18,6 +18,7 @@
     'Science & Technology':  'Ciência & Tecnologia',
     'Sports':                'Desporto',
     'Travel & Events':       'Viagens & Eventos',
+    'Infantil':              'Infantil',
   };
 
   function translateCategory(cat) {
