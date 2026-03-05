@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-05T09:27:22.525962+00:00",
-  "total_videos": 53,
-  "total_channels": 44,
+  "last_updated": "2026-03-05T09:41:43.391609+00:00",
+  "total_videos": 68,
+  "total_channels": 53,
   "videos": [
     {
       "id": "7Y9ShzduBLM",
@@ -32,6 +32,21 @@
       "view_count": 28333,
       "like_count": 1292,
       "pt_score": 0.52
+    },
+    {
+      "id": "3w1zrIsBLw8",
+      "title": "Intervalo RTP Canal 1 - 15/09/1993 (5)",
+      "channel_id": "UCDfMiGON21Pek6LBbnYgzYg",
+      "channel_name": "Máquina do Tempo",
+      "description": "Publicidade emitida após o 24 Horas. Inclui: \n– Bolsa Dia a Dia \n– O Tempo (meteorologia) \n– Programação do dia seguinte (excerto) \n\nRádio e Televisão de Portugal, S.A.",
+      "published_at": "2026-02-21T16:07:00Z",
+      "category_id": "24",
+      "category_name": "Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/3w1zrIsBLw8/maxresdefault.jpg",
+      "duration": "PT5M25S",
+      "view_count": 189,
+      "like_count": 4,
+      "pt_score": 0.5
     },
     {
       "id": "UkAs_Fx196o",
@@ -259,6 +274,21 @@
       "pt_score": 0.52
     },
     {
+      "id": "3c5eD08vfKE",
+      "title": "2025/11/09 - Especial Informação, RTP Notícias",
+      "channel_id": "UC_57KgdoSEj4pwpRkZNhXgg",
+      "channel_name": "Pedro Brinca",
+      "description": "Comentários aos resultados iniciais da segunda volta das eleições para o SL Benfica.",
+      "published_at": "2025-11-09T11:08:20Z",
+      "category_id": "17",
+      "category_name": "Sports",
+      "thumbnail": "https://i.ytimg.com/vi/3c5eD08vfKE/sddefault.jpg",
+      "duration": "PT12M22S",
+      "view_count": 577,
+      "like_count": 7,
+      "pt_score": 0.5
+    },
+    {
       "id": "WcKwEZKKOuo",
       "title": "#DJ Mara Saudade – Fado de Quem Sou | Portugal Eurovision 2026 (AI ESC 2026) AI Music Project 2922",
       "channel_id": "UC85ZEH1hRO7mYr_ckmcTW9w",
@@ -316,6 +346,21 @@
       "duration": "PT5M48S",
       "view_count": 2249,
       "like_count": 47,
+      "pt_score": 0.5
+    },
+    {
+      "id": "Pcil93pIqNw",
+      "title": "Eleições Autárquicas: Projecção RTP 2025",
+      "channel_id": "UCKZtcu_E99AksBwuXOmBulA",
+      "channel_name": "pedrodepinto",
+      "description": "Excerto do \"Eleições Autárquicas 2025\" emitido em 12 de Outubro de 2025 na RTP1 e apresentado por Carlos Daniel, José Rodrigues dos Santos e Ana Lourenço. Inclui últimos instantes do programa \"Eleições Autárquicas 2025 - Portugal Decide\", indicativo do programa \"Eleições Autárquicas 2021 - Hora dos Vencedores\" e projecção da RTP para os novos Presidentes das Câmaras Municipais de Lisboa e Porto.",
+      "published_at": "2025-10-15T10:36:07Z",
+      "category_id": "25",
+      "category_name": "News & Politics",
+      "thumbnail": "https://i.ytimg.com/vi/Pcil93pIqNw/maxresdefault.jpg",
+      "duration": "PT5M20S",
+      "view_count": 3525,
+      "like_count": 43,
       "pt_score": 0.5
     },
     {
@@ -574,6 +619,66 @@
       "pt_score": 0.5
     },
     {
+      "id": "AT7mWK8Mu7o",
+      "title": "24 Horas - RTP Canal 1 - 07/02/1990 (2)",
+      "channel_id": "UCDfMiGON21Pek6LBbnYgzYg",
+      "channel_name": "Máquina do Tempo",
+      "description": "Emitido entre o filme \"Serpico\" e o Remate. Apresentação de Vasco Matos Trigo. \n\nRádio e Televisão de Portugal, S.A.",
+      "published_at": "2023-06-03T15:05:00Z",
+      "category_id": "24",
+      "category_name": "Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/AT7mWK8Mu7o/maxresdefault.jpg",
+      "duration": "PT17M22S",
+      "view_count": 552,
+      "like_count": 8,
+      "pt_score": 0.5
+    },
+    {
+      "id": "IXYJzu-lQ8Q",
+      "title": "24 Horas Especial - RTP Canal 1 - 27/02/1991",
+      "channel_id": "UCDfMiGON21Pek6LBbnYgzYg",
+      "channel_name": "Máquina do Tempo",
+      "description": "Excerto com apresentação de José Rodrigues dos Santos. \n\nRádio e Televisão de Portugal, S.A.",
+      "published_at": "2023-03-04T16:05:00Z",
+      "category_id": "24",
+      "category_name": "Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/IXYJzu-lQ8Q/maxresdefault.jpg",
+      "duration": "PT5M36S",
+      "view_count": 990,
+      "like_count": 11,
+      "pt_score": 0.5
+    },
+    {
+      "id": "d9HOQSvBn9g",
+      "title": "Intervalo RTP Canal 1 - 21/12/1990 (5)",
+      "channel_id": "UCDfMiGON21Pek6LBbnYgzYg",
+      "channel_name": "Máquina do Tempo",
+      "description": "Publicidade emitida entre a série \"Chefe... Mas Pouco\" (Who's the Boss?) e o 24 Horas. Inclui os anúncios de: \n– Desumidificadores FNAC \n– Vinho Cockburn's \n– Televisores Pioneer \n– Vidal Sassoon Wash & Go \n– Espumante Messias \n– Computadores GoldStar \n– Álbum \"Le Plus Grands Succès d'Adamo\" \n– Whisky Glenfiddich \n– Relógios Omega \n– Álbum \"Canções de Amor\" de Carlos Guilherme \n– Peugeot 405 \n– Banco Português do Atlântico \n– Álbum \"Super Disco\" \n– Autopromoção da série \"Duas Histórias de que o Diabo Gosta\" \n\nRádio e Televisão de Portugal, S.A.",
+      "published_at": "2023-02-18T16:04:00Z",
+      "category_id": "24",
+      "category_name": "Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/d9HOQSvBn9g/maxresdefault.jpg",
+      "duration": "PT6M3S",
+      "view_count": 1024,
+      "like_count": 29,
+      "pt_score": 0.5
+    },
+    {
+      "id": "BJpXRQ_xGCI",
+      "title": "(2/2) 24 Horas - RTP Canal 1 - 24/10/1990",
+      "channel_id": "UCDfMiGON21Pek6LBbnYgzYg",
+      "channel_name": "Máquina do Tempo",
+      "description": "Rádio e Televisão de Portugal, S.A.",
+      "published_at": "2022-12-17T16:02:00Z",
+      "category_id": "24",
+      "category_name": "Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/BJpXRQ_xGCI/maxresdefault.jpg",
+      "duration": "PT14M21S",
+      "view_count": 754,
+      "like_count": 8,
+      "pt_score": 0.5
+    },
+    {
       "id": "o6_d5PpOCQY",
       "title": "Luís Trigacheiro - O Meu Alentejo (Ao Vivo No Tivoli BBVA / 2022)",
       "channel_id": "UCL9shXxi6SamoZonlwzS2DA",
@@ -649,6 +754,36 @@
       "pt_score": 0.5
     },
     {
+      "id": "aTz9z4Sor8Q",
+      "title": "(5/5) Gala de Prata RTP - 17/04/1982",
+      "channel_id": "UCDfMiGON21Pek6LBbnYgzYg",
+      "channel_name": "Máquina do Tempo",
+      "description": "Créditos: Afonso Gageiro \n\nCanal: RTP1 \n\nRádio e Televisão de Portugal, S.A.",
+      "published_at": "2021-04-03T16:00:01Z",
+      "category_id": "24",
+      "category_name": "Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/aTz9z4Sor8Q/maxresdefault.jpg",
+      "duration": "PT6M10S",
+      "view_count": 555,
+      "like_count": 9,
+      "pt_score": 0.5
+    },
+    {
+      "id": "AIon3_xeyFg",
+      "title": "Matan Koalia | Desporto: Liga AAATP - II. Cuba (5) vs China (3).",
+      "channel_id": "UC459qozPMlamkDXSGxWXBow",
+      "channel_name": "Matan Koalia",
+      "description": "Dili, 04/10/2020 \n\nSegundo dia Liga AAATP - II iha campo futsal FFTL. \n\nLiga AAATP tinan ida ne’e ho lema “MAI ITA HAMUTUK PROMOVE AMIZADE NO SAUDE LIU HUSI DESPORTU”.\n\nLiga AAATP – II ne’e hetan participação máxima husi antigos alunos Brazil, Australia, Nova Zelândia, Tailândia, Cuba, China, Coreia do Sul, Filipina no Portugal.\n\nJogos fase grupo sei halao iha loron 3, 4, 10, 11 no 24 Outubro 2020.\nJogos semi final no final sei realiza iha loron 24 Outubro 2020 parte loro kraik husi tuku 16 to 19 HTL.\n\nDetalho ba horario ba jogo sira bele hare iha:\nhttps://www.facebook.com/AAATP-Associa%C3%A7%C3%A3o-dos-Antigos-Alunos-Timorenses-de-Portugal-111491786944021/photos/pcb.340825140677350/340824910677373 \n--------------- \nHakarak hatene liu tan kona-ba: \nAAATP - Associação dos Antigos Alunos Timorenses de Portugal\nBele hare iha Facebook fanpage tuir mai ne'e: \nhttps://www.facebook.com/AAATP-Associa%C3%A7%C3%A3o-dos-Antigos-Alunos-Timorenses-de-Portugal-111491786944021\n--------------- \nKona-ba Matan Koalia. \nMatan Koalia (ho lema: \"Hare, Hanoin, Sente, Koalia\") hanesan kanál YouTube Timor oan nian nebe mak sei dedika an iha area fotografia no videografia ho tema oi-oin. \n\n\"Matan Koalia | Desporto\" hanesan programa ida husi Matan Koalia nebe sei fokaliza ba tema relasiona ho desporto. \nFacebook Fanpage: https://web.facebook.com/MatanKoalia \n---------------- \nMúsica iha vídeo ne'e (music in this vídeo): \n--- \nIntro: \"Emanuel Assis - Alcatraz - Sae As (ft. Institut Seni Indonesia)\" https://www.youtube.com/watch?v=EBAKauFqZzA \n\nSurvive the Montage. Artist: RKVC from Youtube Audio library.\n\nKeta haluha LIKE, SHARE no SUBSCRIBE atu la lakon video tuir mai! \n---------------- \nFor commercial purpose please contact: \nE-mail: emanuelssassis@gmail.com\nor \nhttps://www.facebook.com/UMADATOMUTUGATA?_rdc=3&_rdr\n---------------- \nObrigado \n---------------- \nNOTA IMPORTANTE! \nMATAN KOALIA LA SIMU APOIU FINANSEIRU RUMA BA PRODUSAUN VIDEO IDA NE’E. \n\nPRODUSAUN BA VIDEO IDA NE'E, MAI HUSI INI",
+      "published_at": "2020-10-04T07:59:54Z",
+      "category_id": "17",
+      "category_name": "Sports",
+      "thumbnail": "https://i.ytimg.com/vi/AIon3_xeyFg/hqdefault.jpg",
+      "duration": "PT5M8S",
+      "view_count": 69,
+      "like_count": 0,
+      "pt_score": 0.5
+    },
+    {
       "id": "QKge-rLEZWg",
       "title": "Reportagem Especial SIC | Crise no Turismo | Algarve",
       "channel_id": "UCwE6N5Ah0MtJYmxzp-z1uIw",
@@ -691,6 +826,21 @@
       "duration": "PT11M24S",
       "view_count": 4028,
       "like_count": 78,
+      "pt_score": 0.5
+    },
+    {
+      "id": "jxhRoBhkg08",
+      "title": "Corrupção em Portugal | Tiago Caiado Guerreiro | SIC Notícias",
+      "channel_id": "UC0g5Z86b5xnQQa50PCWbsxQ",
+      "channel_name": "Caiado Guerreiro",
+      "description": "Tiago Caiado Guerreiro comenta a desvalorização do investimento na Polícia Judiciária e as medidas que facilitam a existência de corrupção.",
+      "published_at": "2019-07-01T10:37:45Z",
+      "category_id": "22",
+      "category_name": "People & Blogs",
+      "thumbnail": "https://i.ytimg.com/vi/jxhRoBhkg08/maxresdefault.jpg",
+      "duration": "PT7M27S",
+      "view_count": 20192,
+      "like_count": 469,
       "pt_score": 0.5
     },
     {
@@ -769,6 +919,36 @@
       "pt_score": 0.5
     },
     {
+      "id": "9dalSwqFyHk",
+      "title": "Sociedade Civil - Obesidade Infantil - Saber Escolher, Saber Cozinhar",
+      "channel_id": "UC-JVYhvaXxHboIvGto1lqTw",
+      "channel_name": "Hugo Manuel Correia",
+      "description": "SINOPSE:\nA educação alimentar das crianças é neste momento o grande desafio para qualquer pai. Não é fácil convencer os mais novos a trocar o bife e as batatas fritas por uma salada de brócolos... Mas não é impossível. Daniela Seabra é nutricionista e ajuda-nos a descortinar os ingredientes saudáveis da roda dos alimentos, já Patrícia Vilela, uma amante de cozinha, ajuda-nos a saber conjuga-los em soluções deliciosamente saudáveis.\n\nEQUIPA FAROL DE IDEIAS:\nReportagem: Hugo Manuel Correia\nImagem: Joana Deusdado\nEdição: Joana Deusdado\n\nEMISSÃO RTP 2:\nEsta Reportagem foi para o ar no programa Sociedade Civil de 23 de Maio de 2014.\n\nCOPYRIGHT\n© RTP / Farol de Ideias 2014",
+      "published_at": "2014-05-27T16:44:37Z",
+      "category_id": "25",
+      "category_name": "News & Politics",
+      "thumbnail": "https://i.ytimg.com/vi/9dalSwqFyHk/maxresdefault.jpg",
+      "duration": "PT4M59S",
+      "view_count": 164,
+      "like_count": 2,
+      "pt_score": 0.5
+    },
+    {
+      "id": "hOS4ERp5G2Q",
+      "title": ".Pablo Alborán | Documentário da primeira digressão em Portugal (Junho-Julho 2012)",
+      "channel_id": "UCbNWwUuBppIM7NMZ8uqHWog",
+      "channel_name": "parlophonemusicportugal",
+      "description": "Imagens Inéditas da primeira digressão em Portugal de Pablo Alborán. Actuou para mais de 100 mil pessoas em concertos em Guimarães-\"Capital Europeia da Cultura 12\", Santarém, Aveiro, Elvas, Serpa, Oeiras \"EDP CoolJazzfest\" e Cantanhede. Em Novembro estreou-se nos Coliseus de Lisboa e Porto em concertos totalmente esgotados. Também em Novembro editou o novo disco \"TANTO\", que mereceu entrada directa para o 1º lugar do top de vendas nacional. Com 35 semanas em n1 do Top Nacional de vendas.com \"En Acústico\", Pablo detém o recorde de permanência na liderança do Top de discos. É o artista que mais discos vendeu em Portugal em 2012. Parabéns Pablo. Obrigado por tantos sorrisos.",
+      "published_at": "2013-07-30T16:28:51Z",
+      "category_id": "10",
+      "category_name": "Music",
+      "thumbnail": "https://i.ytimg.com/vi/hOS4ERp5G2Q/maxresdefault.jpg",
+      "duration": "PT18M23S",
+      "view_count": 53872,
+      "like_count": 616,
+      "pt_score": 0.56
+    },
+    {
       "id": "rwQCqspoTL8",
       "title": "DOC Portugal   Ciência e investigação",
       "channel_id": "UCRDnpuRtEhqxCfpXYtORBrw",
@@ -782,6 +962,51 @@
       "view_count": 113,
       "like_count": 0,
       "pt_score": 0.52
+    },
+    {
+      "id": "7zYgOBMbzb4",
+      "title": "[MONTAGEM] RTP/Record - Programação Horário Nobre",
+      "channel_id": "UClWmAD2XEP4uWF0QPlcDdXg",
+      "channel_name": "MatHenrique741",
+      "description": "Como seria a programação se a RTP e a Record fizessem uma parceria?\n\n© 2012 Rádio e Televisão Record S/A e Rádio e Televisão de Portugal, SGPS,﻿ S. A\n\nAgradecimentos:\n/MundoTVsergipana**\n/valentin89000**\n/Donaldo1997**\n/pedrodepinto**\n/JonhHess\n/TVPaulista\n/DNArchitect",
+      "published_at": "2012-06-05T15:02:21Z",
+      "category_id": "24",
+      "category_name": "Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/7zYgOBMbzb4/maxresdefault.jpg",
+      "duration": "PT5M20S",
+      "view_count": 2640,
+      "like_count": 14,
+      "pt_score": 0.5
+    },
+    {
+      "id": "ya8FQiHvKxs",
+      "title": "RTP Informação - 2011 - 18/20",
+      "channel_id": "UCD9OQXtH47snaljoENmHi7A",
+      "channel_name": "rdgvito",
+      "description": "Destaques (0:00, 0:45, 1:04, 1:25, 1:46, 2:28), genérico (0:29, 3:11), separador (2:22, 3:23) e final (3:28) do bloco de notícias 18/20 da RTP Informação em 2011. \r\n\r\n© Rádio e Televisão de Portugal",
+      "published_at": "2011-11-08T20:14:26Z",
+      "category_id": "1",
+      "category_name": "Film & Animation",
+      "thumbnail": "https://i.ytimg.com/vi/ya8FQiHvKxs/hqdefault.jpg",
+      "duration": "PT4M45S",
+      "view_count": 13941,
+      "like_count": 47,
+      "pt_score": 0.5
+    },
+    {
+      "id": "ykAteHt0ddI",
+      "title": "Jose Veras 2005 - RTP 1 - Telejornal, salto Tandem com o Capitão do FCP...",
+      "channel_id": "UC7G8HJu_XUlE6Z9PkXQG9fA",
+      "channel_name": "Jose Veras",
+      "description": "2005 - RTP 1 - Telejornal, Jose Veras realiza salto tandem, com Jorge Costa a 4500 metros de altura... para o Capitão do Futebol Clube do Porto, o Páraquedismo era um sonho de infância. Ao longo de 15 anos no FCP, Jorge Costa foi realizando todos os sonhos que ambicionava. Para o Capitão Portista, depois dos títulos chegou a hora de cumprir mais este desejo.\nO salto do Jorge Costa inseriu-se num projeto da RTP, que contemplou uma série de reportagens para o Telejornal, onde a Jornalista Laura Santos, desafiou algumas figuras de grande destaque do Futebol Português e Europeu, a praticarem modalidades fora do âmbito do Futebol, pelas quais tivessem algum fascínio, mas que nunca tivessem tido oportunidade de experimentar.\nJose Veras contou com a colaboração dos Cameraflyers Luís Candeias e Eddy Resende, que captaram as imagens de vídeo e fotos.\nO Evento foi realizado no Centro de Páraquedismo de Proença-a-Nova e contou com os patrocínios do Montepio Geral, Companhia de Seguros Lusitania e Município de Proença-a-Nova.",
+      "published_at": "2011-05-19T10:44:01Z",
+      "category_id": "17",
+      "category_name": "Sports",
+      "thumbnail": "https://i.ytimg.com/vi/ykAteHt0ddI/sddefault.jpg",
+      "duration": "PT4M38S",
+      "view_count": 2396,
+      "like_count": 8,
+      "pt_score": 0.56
     },
     {
       "id": "hn9mBEmvaMg",
