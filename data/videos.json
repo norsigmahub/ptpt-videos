@@ -1,23 +1,8 @@
 {
-  "last_updated": "2026-03-05T08:55:47.599099+00:00",
-  "total_videos": 108,
-  "total_channels": 81,
+  "last_updated": "2026-03-05T09:21:26.748168+00:00",
+  "total_videos": 54,
+  "total_channels": 45,
   "videos": [
-    {
-      "id": "68zTeBI5q30",
-      "title": "BRABO X COIMBRA FC PORTO SUB20",
-      "channel_id": "UCsYJxD8NwYxWWJ3d4KmIqDw",
-      "channel_name": "brabogordinho",
-      "description": "",
-      "published_at": "2026-03-04T00:56:45Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/68zTeBI5q30/maxresdefault.jpg",
-      "duration": "PT11M24S",
-      "view_count": 3021,
-      "like_count": 321,
-      "pt_score": 0.52
-    },
     {
       "id": "7Y9ShzduBLM",
       "title": "Pós-jogo | Taça de Portugal: Sporting CP 1-0 FC Porto",
@@ -29,38 +14,8 @@
       "category_name": "Sports",
       "thumbnail": "https://i.ytimg.com/vi/7Y9ShzduBLM/maxresdefault.jpg",
       "duration": "PT13M43S",
-      "view_count": 16860,
-      "like_count": 954,
-      "pt_score": 0.5800000000000001
-    },
-    {
-      "id": "1QARPCffbWU",
-      "title": "Taça de Portugal (Meias-Finais) | Sporting 1-0 FC Porto: Flash Interview Rui Borges",
-      "channel_id": "UCINrlkmrXi4a-kOl6unb51A",
-      "channel_name": "sport tv",
-      "description": "",
-      "published_at": "2026-03-04T00:07:07Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/1QARPCffbWU/maxresdefault.jpg",
-      "duration": "PT5M4S",
-      "view_count": 3016,
-      "like_count": 72,
-      "pt_score": 0.52
-    },
-    {
-      "id": "d2tdGKRJR5I",
-      "title": "Resumo: Sporting 1-0 FC Porto (Taça de Portugal 25/26)",
-      "channel_id": "UCYqdtLLYQl-Yfs6AwHHuJTA",
-      "channel_name": "VSPORTS - Taça de Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nO Sporting venceu esta terça-feira o FC Porto por 1-0 e adiantou-se nas meias-finais da Taça de Portugal, num embate da primeira mão, disputado no Estádio José Alvalade, em Lisboa.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSTACAPORTUGALBETCLIC",
-      "published_at": "2026-03-03T23:11:32Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/d2tdGKRJR5I/maxresdefault.jpg",
-      "duration": "PT5M11S",
-      "view_count": 145857,
-      "like_count": 2208,
+      "view_count": 22345,
+      "like_count": 1113,
       "pt_score": 0.52
     },
     {
@@ -74,53 +29,8 @@
       "category_name": "Sports",
       "thumbnail": "https://i.ytimg.com/vi/vLpiSIh8mq8/maxresdefault.jpg",
       "duration": "PT17M46S",
-      "view_count": 28170,
+      "view_count": 28333,
       "like_count": 1292,
-      "pt_score": 0.6799999999999999
-    },
-    {
-      "id": "yj7SjStIh4k",
-      "title": "Backstage | #FutsalBenfica 4-3 Sporting CP | #UCLFutsal",
-      "channel_id": "UC8zrah5cNf2c3jKKeD_Z3fw",
-      "channel_name": "Sport Lisboa e Benfica",
-      "description": "Os bastidores da 1.ª mão dos Quartos de Final da UEFA Futsal Champions League!\n\nAcompanha tudo sobre as nossas modalidades aqui 👇\n𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺: http://instagram.com/modalidadesslb\n𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: https://www.facebook.com/SportLisboaBenficaModalidades\n𝗫: https://twitter.com/ModalidadesSLB\n\nRedes Sociais:\nFacebook: https://www.facebook.com/slbenfica\nInstagram: http://instagram.com/slbenfica\nTwitter: https://twitter.com/slbenfica\nTikTok: https://www.tiktok.com/@slbenfica\n\nSite SL Benfica: http://www.slbenfica.pt\nLoja SL Benfica: http://www.slbenfica.pt/loja\n\nNova App: https://www.slbenfica.pt/app",
-      "published_at": "2026-02-24T16:01:32Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/yj7SjStIh4k/maxresdefault.jpg",
-      "duration": "PT7M29S",
-      "view_count": 21712,
-      "like_count": 1490,
-      "pt_score": 0.52
-    },
-    {
-      "id": "cfhCOBVnF4Q",
-      "title": "SL Benfica vs CP Sporting  - UEFA Futsal champions League 2025/26 - Melhores momentos ",
-      "channel_id": "UCnND7ejqAIWQgBzJUPUwiCg",
-      "channel_name": "Futsal Profissional ",
-      "description": "O SL Benfica venceu o eterno rival Sporting CP em duelo eletrizante pelas quartas de final da UEFA Futsal Champions League. O Sporting esteve quase sempre na frente do marcador, mostrando frieza e intensidade, mas o Benfica nunca deixou de acreditar e foi reagindo a cada golpe.\n\nCom o Pavilhão da Luz completamente lotado e empurrando a equipa, o momento mágico aconteceu a apenas 3 segundos do fim: reviravolta encarnada e explosão total nas bancadas!\n\nUma vitória épica no jogo da ida, daquelas que ficam na memória e prometem uma segunda mão de cortar a respiração. 🔴✨\n\n🏟: Detalhes da Partida \n\n📅: 23 de Fevereiro 2026\n\n🏟: Pavilhão da Luz , Lisboa \n\n🏆: UEFA Futsal champions League | 1°Mão \n\nConfira os melhores momentos dessa grande partida \n\n#uclfutsal #Futsalprofissional",
-      "published_at": "2026-02-23T22:54:56Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/cfhCOBVnF4Q/sddefault.jpg",
-      "duration": "PT4M59S",
-      "view_count": 38634,
-      "like_count": 590,
-      "pt_score": 0.52
-    },
-    {
-      "id": "Fr5Gg6U6oCA",
-      "title": "FC PORTO VLOG 👀🐉 A vitória na Madeira",
-      "channel_id": "UCQegzQwEExHgXvm_yHptzQg",
-      "channel_name": "FC Porto",
-      "description": "🔵 FC Porto | A vitória frente ao CD Nacional VLOG🐉\nEste vídeo faz parte dos conteúdos oficiais de bastidores do FC Porto.\n━━━━━━━━━━━━━━\n🔵 FC Porto | The victory against Nacional Vlog 🐉\nExperience the emotions, the atmosphere and the behind-the-scenes of FC Porto. This vlog shows what it really means to be Porto.This video is part of FC Porto’s official behind-the-scenes content.\n━━━━━━━━━━━━━━\n🔔 Subscreve o canal do FC Porto 👉 https://fcpor.to/SubscribeYT\n━━━━━━━━━━━━━━\n#seguimosjuntos #fcporto #ligaportugal \n\n𝕏 : https://x.com/FCPorto\n🎶 Tiktok:  https://www.tiktok.com/@fcporto\n🔵 Facebook: https://www.facebook.com/fcporto\n🌐 Tickets: https://bilhetes.fcporto.pt\n🛍 Store: https://store.fcporto.pt",
-      "published_at": "2026-02-16T17:05:38Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/Fr5Gg6U6oCA/maxresdefault.jpg",
-      "duration": "PT11M40S",
-      "view_count": 12368,
-      "like_count": 873,
       "pt_score": 0.52
     },
     {
@@ -134,23 +44,8 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/UkAs_Fx196o/maxresdefault.jpg",
       "duration": "PT5M3S",
-      "view_count": 186156,
+      "view_count": 186216,
       "like_count": 2341,
-      "pt_score": 0.5800000000000001
-    },
-    {
-      "id": "NHQtEDgAr7A",
-      "title": "Missão: Açores",
-      "channel_id": "UC8zrah5cNf2c3jKKeD_Z3fw",
-      "channel_name": "Sport Lisboa e Benfica",
-      "description": "Redes Sociais:\nFacebook: https://www.facebook.com/slbenfica\nInstagram: http://instagram.com/slbenfica\nTwitter: https://twitter.com/slbenfica\nTikTok: https://www.tiktok.com/@slbenfica\n\nSite SL Benfica: http://www.slbenfica.pt\nLoja SL Benfica: http://www.slbenfica.pt/loja\n\nNova App: https://www.slbenfica.pt/app",
-      "published_at": "2026-02-12T23:01:13Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/NHQtEDgAr7A/maxresdefault.jpg",
-      "duration": "PT4M20S",
-      "view_count": 26223,
-      "like_count": 1819,
       "pt_score": 0.52
     },
     {
@@ -166,22 +61,7 @@
       "duration": "PT4M42S",
       "view_count": 169,
       "like_count": 6,
-      "pt_score": 0.52
-    },
-    {
-      "id": "oNB1YzWWP0Y",
-      "title": "Resumo: Sporting 3-2 AVS (Taça de Portugal 25/26)",
-      "channel_id": "UCYqdtLLYQl-Yfs6AwHHuJTA",
-      "channel_name": "VSPORTS - Taça de Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nO Sporting marcou encontro com o FC Porto nas meias-finais da Taça de Portugal, ao vencer esta quinta-feira o AVS, por 3-2, após prolongamento, na última partida dos \"quartos\" da prova rainha.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSTACAPORTUGALBETCLIC",
-      "published_at": "2026-02-05T23:57:31Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/oNB1YzWWP0Y/maxresdefault.jpg",
-      "duration": "PT6M",
-      "view_count": 148151,
-      "like_count": 1883,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "-s6P0emPx5Y",
@@ -194,9 +74,9 @@
       "category_name": "Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/-s6P0emPx5Y/maxresdefault.jpg",
       "duration": "PT6M30S",
-      "view_count": 3578,
+      "view_count": 3585,
       "like_count": 387,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "4CiaZudxhE0",
@@ -209,9 +89,9 @@
       "category_name": "Sports",
       "thumbnail": "https://i.ytimg.com/vi/4CiaZudxhE0/maxresdefault.jpg",
       "duration": "PT11M49S",
-      "view_count": 35963,
-      "like_count": 1117,
-      "pt_score": 0.64
+      "view_count": 36031,
+      "like_count": 1118,
+      "pt_score": 0.5800000000000001
     },
     {
       "id": "Q9EAvEiNGAM",
@@ -224,38 +104,53 @@
       "category_name": "Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/Q9EAvEiNGAM/maxresdefault.jpg",
       "duration": "PT5M",
-      "view_count": 2366,
+      "view_count": 2388,
       "like_count": 44,
+      "pt_score": 0.5
+    },
+    {
+      "id": "iFSVqdpyOFk",
+      "title": "FC PORTO VLOG 👀🐉 A vitória do FC Porto W na Madeira",
+      "channel_id": "UCQegzQwEExHgXvm_yHptzQg",
+      "channel_name": "FC Porto",
+      "description": "🔵 FC Porto | A vitória na Madeira VLOG🐉\nA vitória no Funchal. Este vídeo faz parte dos conteúdos oficiais de bastidores do FC Porto.\n━━━━━━━━━━━━━━\n🔵 FC Porto | The victory in Funchal Vlog 🐉\nExperience the emotions, the atmosphere and the behind-the-scenes of FC Porto. This vlog shows what it really means to be Porto.This video is part of FC Porto’s official behind-the-scenes content.\n━━━━━━━━━━━━━━\n🔔 Subscreve o canal do FC Porto👉 https://fcpor.to/SubscribeYT\n━━━━━━━━━━━━━━\n#fcportow  #seguimosjuntos \n━━━━━━━━━━━━━━\n📸 Instagram:  https://www.instagram.com/fcporto\n𝕏 : https://x.com/FCPorto\n🎶 Tiktok:  https://www.tiktok.com/@fcporto\n🔵 Facebook: https://www.facebook.com/fcporto\n🌐 Tickets: https://bilhetes.fcporto.pt\n🛍 Store: https://store.fcporto.pt",
+      "published_at": "2026-01-20T17:06:59Z",
+      "category_id": "17",
+      "category_name": "Sports",
+      "thumbnail": "https://i.ytimg.com/vi/iFSVqdpyOFk/maxresdefault.jpg",
+      "duration": "PT14M22S",
+      "view_count": 8161,
+      "like_count": 577,
       "pt_score": 0.52
     },
     {
-      "id": "NVT98qq8mOI",
-      "title": "Depressão 'Kristin' em Portugal",
-      "channel_id": "UCC0le5QifLwvVYRfSU257Bw",
-      "channel_name": "Fala Portugal",
-      "description": "A passagem da depressão Kristin por Portugal continental já fez, pelo menos, seis mortos. O mau tempo arrasou várias regiões do país. Leiria foi o distrito mais afetado. O IPMA diz que a chuva vai continuar na próxima noite, com as regiões Norte e Centro sob aviso amarelo. \n\nSiga o FALA PORTUGAL em:\n🔹  FACEBOOK: https://facebook.com/falaportugal\n🔸  INSTAGRAM: https://instagram.com/falaportugaltv\n🔹  TIKTOK: https://tiktok.com/@falaportugaltv\n🔸  SITE: https://recordeuropa.com/programas/informacao/fala-portugal\n\nAssista o FALA PORTUGAL na TV RECORD: \n📺 MEO 192 | NOS 177 | VOD 134 | NOWO 125 | DIGI 71 | WOO 177 | UZO e AMIGO consultar na app/site\n\n#FalaPortugal #TVRECORD #Informação",
-      "published_at": "2026-01-29T12:53:49Z",
+      "id": "yAv1DO-NPWM",
+      "title": "MUDAR PORTUGAL COM CORAGEM POLÍTICA",
+      "channel_id": "UCHIfE6RzjIm6j2uPl0XUQfQ",
+      "channel_name": "Chega Açores",
+      "description": "Está na hora de mudar Portugal, depois de “cinquenta anos de erros acumulados, de fracassos repetidos, de uma Democracia que serve cada vez melhor alguns, mas cada vez pior aqueles a quem deveria servir em primeiro lugar: o nosso bom Povo”.\nFoi este o mote para a declaração política do CHEGA, apresentada hoje pelo líder parlamentar, José Pacheco, que reforçou que é hora de questionar se faz sentido continuar exactamente no mesmo caminho ou se temos a coragem de repensar a trajectória. “Repensar o sistema não é negar a Democracia. Pelo contrário: é valorizá-la. É resgatá-la da mediocridade, do conformismo e da captura por interesses instalados. É fazê-la regressar à sua essência: representar o Povo, proteger quem trabalha e garantir justiça, responsabilidade e futuro”, reforçou.\nJosé Pacheco indicou que, em Portugal, durante décadas, “formámos gerações com diplomas, mas sem exigência; com teoria, mas sem responsabilidade; com retórica, mas sem valores. Criámos um país onde tudo se relativiza, onde tudo se desculpa e onde quem trabalha, quem cumpre e quem respeita as regras é sistematicamente penalizado”.\nPor isso, reforça que Mudar Portugal não é apenas uma questão económica ou administrativa. “É, acima de tudo, uma mudança moral, cultural e civilizacional. É devolver à política a verdade, à justiça a firmeza, à escola a autoridade e ao Estado a sua função essencial: servir quem produz, quem trabalha e quem contribui, e não quem vive à custa do sistema”, disse.\nActualmente Portugal precisa de pensar de forma crítica e livre, mas também de distinguir o certo do errado, o dever do oportunismo, o mérito do facilitismo.\n“Portugal precisa urgentemente das duas coisas. E precisa, acima de tudo, de coragem política para enfrentar resistências, romper com vícios antigos e dizer o que muitos pensam, mas poucos ousam afirmar”, afirmou José Pacheco que garante que se se quer mudar Portugal “temos de acabar com experimentalismos, aventuras e políticas de zigzag. Todos sabem em q",
+      "published_at": "2026-01-15T17:37:46Z",
       "category_id": "25",
       "category_name": "News & Politics",
-      "thumbnail": "https://i.ytimg.com/vi/NVT98qq8mOI/maxresdefault.jpg",
-      "duration": "PT4M12S",
-      "view_count": 12930,
-      "like_count": 231,
-      "pt_score": 0.52
+      "thumbnail": "https://i.ytimg.com/vi/yAv1DO-NPWM/maxresdefault.jpg",
+      "duration": "PT7M1S",
+      "view_count": 129,
+      "like_count": 16,
+      "pt_score": 0.56
     },
     {
-      "id": "1nnmPF5C05I",
-      "title": "Catarina vê na Ciência o “grande projeto” para o futuro de Portugal",
-      "channel_id": "UC27-_ylTJ9j7VgtNh0szZZg",
-      "channel_name": "Catarina Martins",
-      "description": "Na visita ao supercomputador Deucalion, em Guimarães, Ccatarina Martins defendeu que o país tem de investir para responder ao mesmo tempo às transições digital e energética e assim tornar-se uma economia qualificada e não de de baixos salários.",
-      "published_at": "2026-01-15T15:40:06Z",
-      "category_id": "25",
-      "category_name": "News & Politics",
-      "thumbnail": "https://i.ytimg.com/vi/1nnmPF5C05I/maxresdefault.jpg",
-      "duration": "PT6M56S",
-      "view_count": 116,
-      "like_count": 13,
+      "id": "pJKa0zcIIfg",
+      "title": "CLÁSSICO À MODA DO PORTO!🐉💙(Vlog FC Porto 1-0 SL Benfica) ",
+      "channel_id": "UCFu6yipucxl1IrzjOax-a9g",
+      "channel_name": "Nuno Vieirinha",
+      "description": "Fui ao clássico 🐉🦅\nFC Porto 1-0 Benfica 💙\nVitória portista, grande ambiente no estádio e mais uma noite especial para recordar!\n\nSe gostas de futebol, emoções de bancada e conteúdos do dia a dia, deixa o like 👍\nSubscreve o canal 🔔 e acompanha-me nas redes sociais:\n\n📸 Instagram: @nunovieirinha25\n🎵 TikTok: @nunovieirinha25\n\nEstamos juntos 💙⚽",
+      "published_at": "2026-01-15T10:01:19Z",
+      "category_id": "17",
+      "category_name": "Sports",
+      "thumbnail": "https://i.ytimg.com/vi/pJKa0zcIIfg/sddefault.jpg",
+      "duration": "PT15M22S",
+      "view_count": 6952,
+      "like_count": 436,
       "pt_score": 0.52
     },
     {
@@ -269,9 +164,9 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/ydKcb9_6J3w/maxresdefault.jpg",
       "duration": "PT5M22S",
-      "view_count": 63672,
+      "view_count": 63687,
       "like_count": 1013,
-      "pt_score": 0.5800000000000001
+      "pt_score": 0.52
     },
     {
       "id": "2SJCf10evmA",
@@ -284,9 +179,9 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/2SJCf10evmA/maxresdefault.jpg",
       "duration": "PT5M22S",
-      "view_count": 188844,
-      "like_count": 2661,
-      "pt_score": 0.5800000000000001
+      "view_count": 188969,
+      "like_count": 2663,
+      "pt_score": 0.52
     },
     {
       "id": "bqxzmXzOuF4",
@@ -301,22 +196,7 @@
       "duration": "PT4M35S",
       "view_count": 229,
       "like_count": 4,
-      "pt_score": 0.52
-    },
-    {
-      "id": "UVhy_Y09gaA",
-      "title": "Antevisão | FC Porto x SL Benfica",
-      "channel_id": "UC8zrah5cNf2c3jKKeD_Z3fw",
-      "channel_name": "Sport Lisboa e Benfica",
-      "description": "🎙️ Acompanha a conferência de imprensa de antevisão ao #FCPSLB, a contar para os quartos de final da #TaçadePortugal.\n\nRedes Sociais:\nFacebook → https://www.facebook.com/slbenfica\nInstagram → http://instagram.com/slbenfica\nX →  https://x.com/SLBenfica\nTikTok → https://www.tiktok.com/@slbenfica\n\nSite Oficial → http://www.slbenfica.pt\nLoja Oficial → http://www.slbenfica.pt/loja\nCalendário Digital → https://benfica.ecal.com/\n\nNova APP SL Benfica: https://www.slbenfica.pt/app",
-      "published_at": "2026-01-13T13:46:51Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/UVhy_Y09gaA/maxresdefault.jpg",
-      "duration": "PT14M46S",
-      "view_count": 50757,
-      "like_count": 1564,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "OsJkcBPiz1M",
@@ -329,8 +209,8 @@
       "category_name": "Education",
       "thumbnail": "https://i.ytimg.com/vi/OsJkcBPiz1M/maxresdefault.jpg",
       "duration": "PT4M8S",
-      "view_count": 884,
-      "like_count": 8,
+      "view_count": 889,
+      "like_count": 9,
       "pt_score": 0.5800000000000001
     },
     {
@@ -344,39 +224,9 @@
       "category_name": "News & Politics",
       "thumbnail": "https://i.ytimg.com/vi/7S8sTql68xA/maxresdefault.jpg",
       "duration": "PT12M43S",
-      "view_count": 18833,
+      "view_count": 18836,
       "like_count": 397,
-      "pt_score": 0.52
-    },
-    {
-      "id": "6lI6kYINQSs",
-      "title": "Resumo: Braga 2-2 Benfica (Liga 25/26 #16)",
-      "channel_id": "UCuIlu5oGIj1RzHOYmeSV5Eg",
-      "channel_name": "VSPORTS - Liga Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nO Benfica complicou ainda mais as hipóteses de chegar ao título de campeão, ao empatar este domingo 2-2 na visita ao Braga, em jogo da 16.ª jornada da Liga Betclic. Os minhotos também não conseguiram alcançar o Gil Vicente.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSLPBETCLIC",
-      "published_at": "2025-12-28T20:24:13Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/6lI6kYINQSs/maxresdefault.jpg",
-      "duration": "PT5M10S",
-      "view_count": 164494,
-      "like_count": 2170,
-      "pt_score": 0.52
-    },
-    {
-      "id": "H8Wj1-u8rak",
-      "title": "Resumo: FC Porto 4-1 Famalicão (Taça de Portugal 25/26)",
-      "channel_id": "UCYqdtLLYQl-Yfs6AwHHuJTA",
-      "channel_name": "VSPORTS - Taça de Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nPorto-Famalicão: Fim da partida!\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSTACAPORTUGALBETCLIC",
-      "published_at": "2025-12-18T23:48:08Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/H8Wj1-u8rak/maxresdefault.jpg",
-      "duration": "PT4M58S",
-      "view_count": 90769,
-      "like_count": 1745,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "iNYco-_tEvI",
@@ -391,37 +241,7 @@
       "duration": "PT7M17S",
       "view_count": 166,
       "like_count": 7,
-      "pt_score": 0.7
-    },
-    {
-      "id": "g2I7ZL6HIFY",
-      "title": "Highlights | SL Benfica 1-1 Sporting CP | Liga Portugal Betclic",
-      "channel_id": "UC8zrah5cNf2c3jKKeD_Z3fw",
-      "channel_name": "Sport Lisboa e Benfica",
-      "description": "Os highlights do dérbi, a contar para a 13.ª jornada da #LigaPortugalBetclic.\n\n#SLBSCP\n\nRedes Sociais:\nFacebook: https://www.facebook.com/slbenfica\nInstagram: http://instagram.com/slbenfica\nTwitter: https://twitter.com/slbenfica\nTikTok: https://www.tiktok.com/@slbenfica\n\nSite SL Benfica: http://www.slbenfica.pt\nLoja SL Benfica: http://www.slbenfica.pt/loja\n\nNova App: https://www.slbenfica.pt/app",
-      "published_at": "2025-12-06T02:00:47Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/g2I7ZL6HIFY/maxresdefault.jpg",
-      "duration": "PT13M6S",
-      "view_count": 53238,
-      "like_count": 911,
-      "pt_score": 0.52
-    },
-    {
-      "id": "uQH3RTYV3Ag",
-      "title": "Resumo: Benfica 1-1 Sporting (Liga 25/26 #13)",
-      "channel_id": "UCuIlu5oGIj1RzHOYmeSV5Eg",
-      "channel_name": "VSPORTS - Liga Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nBenfica e Sporting empataram esta sexta-feira 1-1 no dérbi que abriu a 13.ª jornada da Liga Betclic, deixando o FC Porto com caminho aberto para aumentar a vantagem no topo da competição.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSLPBETCLIC",
-      "published_at": "2025-12-05T23:03:08Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/uQH3RTYV3Ag/maxresdefault.jpg",
-      "duration": "PT5M22S",
-      "view_count": 327759,
-      "like_count": 3814,
-      "pt_score": 0.52
+      "pt_score": 0.6000000000000001
     },
     {
       "id": "KjadjNVv4Rg",
@@ -434,83 +254,8 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/KjadjNVv4Rg/maxresdefault.jpg",
       "duration": "PT5M6S",
-      "view_count": 141039,
+      "view_count": 141063,
       "like_count": 1820,
-      "pt_score": 0.5800000000000001
-    },
-    {
-      "id": "rtkkImTiWbQ",
-      "title": "“Escutas, Justiça e Caso Spinunviva: João Massano analisa na RTP Notícias”",
-      "channel_id": "UCI2QCJVXUtoyHQoxAAnnSww",
-      "channel_name": "Ordem dos Advogados Portugueses",
-      "description": "No Notícias 11 da RTP Notícias, de 21 de novembro de 2025, o Bastonário da Ordem dos Advogados, João Massano, analisa questões centrais da Justiça portuguesa, desde os limites legais das escutas telefónicas até ao arquivamento do inquérito envolvendo a empresa Spinunviva.\n\nAo comentar o caso das escutas prolongadas, João Massano sublinha que:\n\nÉ fundamental definir limites temporais claros para evitar que qualquer cidadão seja escutado durante anos sem resultados conhecidos.\n\nA credibilidade da Justiça não pode ser colocada em causa por comportamentos isolados, mas é essencial clarificar procedimentos, reforçar a atuação do juiz de instrução e garantir transparência.\n\nSobre o arquivamento do processo relativo à Spinunviva, explica:\n\nO Conselho Regional do Porto concluiu que não existiam indícios de procuradoria ilícita.\n\nA Ordem comunicou esta decisão publicamente para esclarecer a opinião pública, dado que anteriormente também tinha sido tornada pública a existência de averiguações.\n\nA recente alteração da lei dos atos próprios mudou o enquadramento jurídico destes factos.\n\nO Bastonário reforça ainda que:\n\nA Ordem dos Advogados continuará a identificar e corrigir práticas irregulares,\n\nE que cabe ao Ministério Público tirar as suas próprias conclusões no âmbito criminal.\n\n🎯 Uma intervenção que destaca a importância da transparência, da proteção dos cidadãos e do rigor no funcionamento das instituições judiciais.",
-      "published_at": "2025-11-21T13:27:03Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/rtkkImTiWbQ/maxresdefault.jpg",
-      "duration": "PT9M15S",
-      "view_count": 110,
-      "like_count": 2,
-      "pt_score": 0.52
-    },
-    {
-      "id": "bwAf-D641cA",
-      "title": "Será que o Zaidu e o William Gomes conhecem as Expressões do Porto? 😎",
-      "channel_id": "UCQegzQwEExHgXvm_yHptzQg",
-      "channel_name": "FC Porto",
-      "description": "🔵 FC Porto | Fun & Games | Expressões do Porto\nDescobre o lado mais descontraído dos jogadores e da equipa do FC Porto.Entre quizzes, desafios e jogos, este vídeo mostra o clube fora do contexto competitivo.\nEste vídeo faz parte dos conteúdos de entretenimento do FC Porto.\n━━━━━━━━━━━━━━\n🔵 FC Porto | Fun & Games | Expressions of Porto\nDiscover the fun side of FC Porto’s players and staff.Through quizzes, challenges and games, this video shows the club beyond the pitch.\nThis video is part of FC Porto’s official entertainment content.\n\n\n🔔 Subscreve o canal do FC Porto\n👉 https://fcpor.to/SubscribeYT\n━━━━━━━━━━━━━━\n#seguimosjuntos #fcporto \n\n𝕏 : https://x.com/FCPorto\n🎶 Tiktok:  https://www.tiktok.com/@fcporto\n🔵 Facebook: https://www.facebook.com/fcporto\n🌐 Tickets: https://bilhetes.fcporto.pt\n🛍 Store: https://store.fcporto.pt",
-      "published_at": "2025-11-14T13:02:49Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/bwAf-D641cA/maxresdefault.jpg",
-      "duration": "PT5M56S",
-      "view_count": 42866,
-      "like_count": 2210,
-      "pt_score": 0.52
-    },
-    {
-      "id": "2t1NqlPUpLI",
-      "title": "Resumo: FC Porto 2-1 Braga - Liga Portugal Betclic | sport tv",
-      "channel_id": "UCINrlkmrXi4a-kOl6unb51A",
-      "channel_name": "sport tv",
-      "description": "#SportTV #ligaportugalbetclic #LigaPortugal\nFinal segunda parte, Porto 2, Braga 1.\n\nhttp://www.sporttv.pt\nhttp://www.facebook.com/SPORTTVportugal\nhttp://twitter.com/SPORTTVportugal\nhttp://www.instagram.com/SPORTTVportugal\nhttps://www.linkedin.com/company/sporttv/\n\nSubscreve o nosso canal Youtube:\nhttp://www.youtube.com/subscription_center?add_user=sporttv",
-      "published_at": "2025-11-02T22:58:48Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/2t1NqlPUpLI/maxresdefault.jpg",
-      "duration": "PT5M17S",
-      "view_count": 28651,
-      "like_count": 486,
-      "pt_score": 0.52
-    },
-    {
-      "id": "w3rV4_NwX2I",
-      "title": "Resumo: FC Porto 2-1 Braga (Liga 25/26 #10)",
-      "channel_id": "UCuIlu5oGIj1RzHOYmeSV5Eg",
-      "channel_name": "VSPORTS - Liga Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nO FC Porto continua firme na liderança da Liga Betclic. Num jogo cheio de intensidade, a equipa de Francesco Farioli bateu o Sp. Braga por 2-1, no Estádio do Dragão, e somou a oitava vitória da temporada, isolando-se no topo com 28 pontos.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSLPBETCLIC",
-      "published_at": "2025-11-02T22:45:37Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/w3rV4_NwX2I/maxresdefault.jpg",
-      "duration": "PT5M17S",
-      "view_count": 183889,
-      "like_count": 3021,
-      "pt_score": 0.52
-    },
-    {
-      "id": "OQyivFNSmcM",
-      "title": "Lugar mais ESPETACULAR de Portugal? | Ilha Terceira, Açores",
-      "channel_id": "UChwTv4CkgcZzUxxw39ejnhQ",
-      "channel_name": "Walking with Faby",
-      "description": "🌋 Descubra a Ilha Terceira, Açores 🇵🇹 | Guia de viagem completo 2025\n\nNeste vídeo exploramos a Ilha Terceira, uma das ilhas mais autênticas e surpreendentes dos Açores. Mostramos as suas paisagens vulcânicas, miradouros incríveis, vilas históricas e locais imperdíveis para quem está a planear uma viagem aos Açores.\n\n🏞️ Locais que visitamos:\n- Monte Brasil\n- Angra do Heroísmo\n- Algar do Carvão\n- Praia da Vitória\n- Miradouro do Facho\n- Serra do Cume\n- Biscoitos (piscinas naturais)\n\n💡 Neste vídeo vais descobrir:\n- O que fazer na Ilha Terceira\n- Dicas de viagem e melhores épocas para visitar\n- Onde comer e relaxar\n- Os pontos mais bonitos para fotos e vídeos\n\n✈️ Se estás a planear visitar os Açores, este vídeo vai ajudar-te a criar o teu roteiro pela Ilha Terceira — um destino cheio de natureza, hospitalidade e cultura açoriana.\n\n📍 Palavras-chave: ilha terceira açores, viagem açores, roteiro ilha terceira, o que fazer na ilha terceira, turismo açores, angra do heroísmo, monte brasil, algar do carvão, terceira portugal, açores 2025, dicas de viagem açores",
-      "published_at": "2025-11-02T02:05:21Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/OQyivFNSmcM/maxresdefault.jpg",
-      "duration": "PT9M10S",
-      "view_count": 186,
-      "like_count": 9,
       "pt_score": 0.52
     },
     {
@@ -524,24 +269,9 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/WcKwEZKKOuo/maxresdefault.jpg",
       "duration": "PT4M51S",
-      "view_count": 335066,
-      "like_count": 4517,
-      "pt_score": 0.52
-    },
-    {
-      "id": "pC3mFnb2IW0",
-      "title": "Grupo Cantares do Minho - Desgarrada | Mais Quente!🔥Cantares ao Desafio com Muita Picardia do Minho",
-      "channel_id": "UCWTINw7KQEQ9k3_F-j4jt_w",
-      "channel_name": "MÚSICA TÍPICA PORTUGUESA",
-      "description": "Prepare-se para o melhor espetáculo de improviso musical! 🎤 Neste vídeo, o icónico Grupo Cantares do Minho apresenta uma vibrante Desgarrada – o famoso Cantar ao Desafio que é o coração das festas populares no Norte de Portugal!\n\nA Desgarrada Minhota é um duelo poético e humorístico, onde os cantadores improvisam quadras com o apoio da inconfundível concertina. Assista a um autêntico \"despique\" minhoto, com quadras cheias de picardia, sátira social e muita alegria, que fazem o público vibrar.\n\nÉ a pura tradição portuguesa em palco, uma celebração da inteligência, do humor e do ritmo inigualável da Música Popular Portuguesa.\n\nO que vai encontrar neste vídeo:\n\nCantares ao Desafio ao vivo.\n\nO som alegre e único da Concertina.\n\nHumor e a picardia típicos do Minho.\n\nA autenticidade do Folclore Português.\n\nSe procura a música mais divertida do Minho para animar o seu dia, este é o vídeo certo! Deixe-se contagiar pelo ritmo\n\n#Desgarrada #CantaresAoDesafio #CantaresDoMinho #MusicaPopularPortuguesa #FolclorePortugues #DespiqueMinhoto #Concertina #Quadras #Minho #MusicaDeArraial\n\nLink do vídeo\nhttps://youtu.be/pC3mFnb2IW0\n\n✍️Inscreva-se no canal \n👍 Comente e deixe um GOSTO no vídeo \n🔔 Ative o sininho de notificações para ser avisado de novos vídeos \nEspero que apreciem, obrigado.\n\nLISTAS DE REPRODUÇÃO DO CANAL👇\n\nCompilações MÚSICA TÍPICA PORTUGUESA\n▶️https://youtube.com/playlist?list=PLmbAw6XD0XlwCZtcfoKsEboiEDD020fXx\n\nMúsicas dos Irmãos Leais\n▶️ https://youtube.com/playlist?list=PLmbAw6XD0XlxP3d03is6G1zeZz2NInob4\n\nMúsicas do conjunto Esperança\n▶️ https://youtube.com/playlist?list=PLmbAw6XD0Xlz8CJxnPbAJdG2xY-c-cYNX\n\nMúsicas do conjunto Asa D'ouro\n▶️ https://youtube.com/playlist?list=PLmbAw6XD0Xly4Km_xgsaWxGJmFxWKonDd\n\nMúsicas do conjunto Os peles vermelhas\n▶️https://youtube.com/playlist?list=PLmbAw6XD0Xlwk_bi6yUoCCqsqtK9eN0vi\n\nMúsicas do conjunto Estrelas de Portugal\n▶️https://youtube.com/playlist?list=PLmbAw6XD0Xlz3QP-LVjxkW9bosOf-DQXx\n\nMúsicas do conjunto Os Lordes\n▶️https:",
-      "published_at": "2025-10-25T06:00:06Z",
-      "category_id": "10",
-      "category_name": "Music",
-      "thumbnail": "https://i.ytimg.com/vi/pC3mFnb2IW0/maxresdefault.jpg",
-      "duration": "PT5M51S",
-      "view_count": 1174,
-      "like_count": 18,
-      "pt_score": 0.52
+      "view_count": 335824,
+      "like_count": 4521,
+      "pt_score": 0.5
     },
     {
       "id": "iB4srnYjNR8",
@@ -556,7 +286,7 @@
       "duration": "PT6M38S",
       "view_count": 143,
       "like_count": 6,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "CiU1U8Ty1jc",
@@ -571,22 +301,7 @@
       "duration": "PT6M18S",
       "view_count": 823,
       "like_count": 17,
-      "pt_score": 0.52
-    },
-    {
-      "id": "OCZ-LSAmh1o",
-      "title": "Resumo: Celoricense 0-4 FC Porto (Taça de Portugal 25/26)",
-      "channel_id": "UCYqdtLLYQl-Yfs6AwHHuJTA",
-      "channel_name": "VSPORTS - Taça de Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nCeloricense-Porto: Fim da partida!\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSTACAPORTUGALBETCLIC",
-      "published_at": "2025-10-18T19:14:07Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/OCZ-LSAmh1o/maxresdefault.jpg",
-      "duration": "PT4M13S",
-      "view_count": 89642,
-      "like_count": 1575,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "Sgk5QcX_BnI",
@@ -599,24 +314,9 @@
       "category_name": "Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/Sgk5QcX_BnI/maxresdefault.jpg",
       "duration": "PT5M48S",
-      "view_count": 2244,
+      "view_count": 2249,
       "like_count": 47,
-      "pt_score": 0.52
-    },
-    {
-      "id": "lq6gBfiIUQY",
-      "title": "Resumo: Chaves 0-2 Benfica (Taça de Portugal 25/26)",
-      "channel_id": "UCYqdtLLYQl-Yfs6AwHHuJTA",
-      "channel_name": "VSPORTS - Taça de Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nApito final no Estádio Municipal Eng.º Manuel Branco Teixeira! O Benfica venceu o Desportivo de Chaves por 2-0, na terceira eliminatória da Taça de Portugal. Pavlidis foi o autor dos dois golos das 'águias', aos oito e aos 79 minutos.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSTACAPORTUGALBETCLIC",
-      "published_at": "2025-10-17T20:49:41Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/lq6gBfiIUQY/maxresdefault.jpg",
-      "duration": "PT4M53S",
-      "view_count": 114528,
-      "like_count": 1445,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "GtrDzQbnqYY",
@@ -629,24 +329,9 @@
       "category_name": "Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/GtrDzQbnqYY/maxresdefault.jpg",
       "duration": "PT9M31S",
-      "view_count": 10912,
+      "view_count": 10938,
       "like_count": 269,
-      "pt_score": 0.52
-    },
-    {
-      "id": "vpyRmn5Nt9s",
-      "title": "Resumo: FC Porto 0-0 Benfica (Liga 25/26 #8)",
-      "channel_id": "UCuIlu5oGIj1RzHOYmeSV5Eg",
-      "channel_name": "VSPORTS - Liga Portugal",
-      "description": "Segue o VSPORTS no Whatsapp: https://go.vsports.pt/whatsapp\nClássico no Dragão terminou sem golos, num duelo de alta intensidade, muita luta e poucas ocasiões claras entre FC Porto e Benfica.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\n\n#VSPORTSLPBETCLIC",
-      "published_at": "2025-10-05T23:03:38Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/vpyRmn5Nt9s/maxresdefault.jpg",
-      "duration": "PT5M27S",
-      "view_count": 239694,
-      "like_count": 2510,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "WHtFAfSVFlQ",
@@ -659,23 +344,8 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/WHtFAfSVFlQ/maxresdefault.jpg",
       "duration": "PT5M17S",
-      "view_count": 130842,
+      "view_count": 130886,
       "like_count": 1575,
-      "pt_score": 0.5800000000000001
-    },
-    {
-      "id": "KZngf_OPDGg",
-      "title": "Antevisão | Liga Portugal Betclic: Sporting CP x SC Braga",
-      "channel_id": "UCnJj6L93JX3Jrhzv81ayywA",
-      "channel_name": "Sporting Clube de Portugal",
-      "description": "Segue-nos nas redes sociais:\n\nTiktok:\nhttps://www.tiktok.com/@sporting_cp\n\nTelegram:\nhttp://t.me/sportingcp_oficial\n\nPodcast ADN de Leão:\nSpotify | https://spoti.fi/33Vkemn\nApple Podcasts | https://apple.co/3qSbrvb\nGoogle Podcasts | https://bit.ly/2LzkgKr\nPocket Casts | https://pca.st/t5a8t5o6\n\nSporting CP:\nhttps://www.facebook.com/SportingCP/\nhttps://twitter.com/SportingCP\nhttps://twitter.com/SportingCP_en\nhttps://www.instagram.com/sportingcp/\n\nModalidades:\nhttps://www.facebook.com/sportingmodalidades/\nhttps://twitter.com/SCPModalidades\nhttps://www.instagram.com/sportingmodalidades/\n\nFutebol Feminino:\nhttps://www.facebook.com/SportingCPFutebolFeminino/\nhttps://twitter.com/FutFemSCP\nhttps://www.instagram.com/sportingcpfutebolfeminino/\n\nJubas:\nhttps://www.instagram.com/jubasoficial/",
-      "published_at": "2025-10-04T23:51:58Z",
-      "category_id": "17",
-      "category_name": "Sports",
-      "thumbnail": "https://i.ytimg.com/vi/KZngf_OPDGg/maxresdefault.jpg",
-      "duration": "PT15M5S",
-      "view_count": 22872,
-      "like_count": 1011,
       "pt_score": 0.52
     },
     {
@@ -691,22 +361,7 @@
       "duration": "PT14M2S",
       "view_count": 18552,
       "like_count": 501,
-      "pt_score": 0.52
-    },
-    {
-      "id": "ET_0-3H69Zw",
-      "title": "Liga Portugal Betclic 2025/26 - Ambiente em Alvalade Pré-Clássico Sporting CP x FC Porto",
-      "channel_id": "UC9FDbvV1iAE2wb6rCknq3Og",
-      "channel_name": "Rui Manuel Rego",
-      "description": "",
-      "published_at": "2025-09-27T23:48:45Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/ET_0-3H69Zw/maxresdefault.jpg",
-      "duration": "PT6M51S",
-      "view_count": 117,
-      "like_count": 1,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "L7owMkMsN2g",
@@ -719,9 +374,9 @@
       "category_name": "Travel & Events",
       "thumbnail": "https://i.ytimg.com/vi/L7owMkMsN2g/maxresdefault.jpg",
       "duration": "PT14M12S",
-      "view_count": 9914,
+      "view_count": 9920,
       "like_count": 439,
-      "pt_score": 0.5800000000000001
+      "pt_score": 0.52
     },
     {
       "id": "0DC93np1AXg",
@@ -735,8 +390,8 @@
       "thumbnail": "https://i.ytimg.com/vi/0DC93np1AXg/maxresdefault.jpg",
       "duration": "PT15M28S",
       "view_count": 77658,
-      "like_count": 7030,
-      "pt_score": 0.52
+      "like_count": 7029,
+      "pt_score": 0.5
     },
     {
       "id": "caFavkLOjF4",
@@ -749,9 +404,9 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/caFavkLOjF4/maxresdefault.jpg",
       "duration": "PT4M52S",
-      "view_count": 374659,
+      "view_count": 374677,
       "like_count": 5834,
-      "pt_score": 0.5800000000000001
+      "pt_score": 0.52
     },
     {
       "id": "LlCgzH0102M",
@@ -764,24 +419,9 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/LlCgzH0102M/maxresdefault.jpg",
       "duration": "PT10M43S",
-      "view_count": 2336,
+      "view_count": 2358,
       "like_count": 45,
-      "pt_score": 0.52
-    },
-    {
-      "id": "9rF8pZ1uuVo",
-      "title": "7 Lugares INCRÍVEIS para se Comer em LISBOA (obrigatórios)!🔥🇵🇹",
-      "channel_id": "UCpV5nOPgDPnIUBgfwpRplIg",
-      "channel_name": "Duvido Fazer Melhor",
-      "description": "Comece a ganhar dinheiro com marmitas congeladas, direto da sua própria cozinha.\n👉🏻 https://go.hotmart.com/B103772470K\n\nNeste e-book eu mostro, passo a passo, como montar um negócio lucrativo de pratos executivos congelados, começando de casa, com estrutura simples, organização profissional e foco em lucro real.\n\nNada de teoria vazia.\nNada de improviso.\n\nÉ um método prático, criado por quem vive isso no dia a dia, com um caminho claro para começar pequeno e crescer com segurança.\n\nIdeal para quem quer:\n✔️ Criar uma renda extra\n✔️ Sair do zero no negócio de marmitas\n✔️ Montar algo previsível e escalável\n\n🔗 Acesse o ebook aqui: https://go.hotmart.com/B103772470K\n\nNesse vídeo eu vou mostrar tudo que eu comi em Lisboa, e com certeza você não pode deixar de comer essas delícias!!! Tem o pastel de nata ou pastel de Belém, a castanha portuguesa assada no carvão nas ruas de Lisboa, o melhor bolinho de bacalhau do mundo na Rua Augusta com vinho do Porto, o bacalhau Lagadeiro com vista para o Rio Tejo, o gelato em formato de flor na Rua Barret, os doces dos ovos moles!!! Veja tudo o que eu comi em Lisboa, Portugal!!! #lisboa #bacalhau #bolinhodebacalhau #fidalgo #castanhaportuguesa #portugal",
-      "published_at": "2025-03-06T15:00:11Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/9rF8pZ1uuVo/maxresdefault.jpg",
-      "duration": "PT6M39S",
-      "view_count": 6677,
-      "like_count": 0,
-      "pt_score": 0.55
+      "pt_score": 0.5
     },
     {
       "id": "g4VqkkUqx4c",
@@ -794,37 +434,22 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/g4VqkkUqx4c/maxresdefault.jpg",
       "duration": "PT4M11S",
-      "view_count": 16916412,
-      "like_count": 69182,
-      "pt_score": 0.52
+      "view_count": 16936261,
+      "like_count": 69217,
+      "pt_score": 0.5
     },
     {
-      "id": "aFipQWNuSJI",
-      "title": "É Tão Grande o Alentejo",
-      "channel_id": "UCitTARWA4V6gDFUVT1ABXRg",
-      "channel_name": "Buba Espinho",
-      "description": "#BubaEspinho #Alentejo \n\nO Cante é a voz das planícies, onde cada palavra ecoa como um lamento e cada silêncio carrega o peso da saudade.\n\n10 anos de Cante Alentejano como Património Imaterial da Humanidade\n\nBilhetes SuperBock Arena - Porto:  https://linktr.ee/buba_espinho\n\nManagement: guima@maktubartgroup.com\n\nProduzido por: OneMovie\nDireção Criativa: Maktub Art Group\nRealização: Miguel Cristovinho, Patrícia Santos\nProdução Executiva : Buba Espinho, Rui Santos, Maktub Art Group \nAssistentes de Produção: Marta Amaro, Rafael Palma  \nDOP: João Carneiro\nOp. Gimbal: Rodrigo Albuquerque\n1st AC: Marcos Santos\nGaffer: Afonso Moura\nAssistente Iluminação: Pepe / Tiago Rosa\nColor Grading: Dima Yak\nDir. Arte: Joana Oliveira\nCaptação de Som, Mistura e Masterização: Nuno Simões\nDesign e Lettering: Carlos Vilarinho // C-Vil Studio\nFotógrafa de Cena: Cátia Figueiredo \nMake Up: Sónia Mestre Luz\nStyling Buba Espinho: Rita Prieto Alves\nTradução e Legendagem: Daniel Gregg\nAgradecimentos: Pousada Convento de Beja, Nuno Bexiga\n\nCantadores:\nBandidos do Cante \nBruno Chaveiro \nBuba Espinho\nBubedanas\nCantadeiras de Essência Alentejana \nCantadores do Desassossego \nEduardo Espinho\nGrupo de Cantares Feminino de Aljustrel \nGrupo Coral e Etnográfico da Casa do Povo de Serpa \nGrupo Coral e Etnográfico Os Camponeses de Pias \nGrupo Coral os Ganhões de Castro Verde \nGrupo Coral do Sindicato da Indústria Mineira de Aljustrel \nGrupo Coral Os Vindimadores da Vidigueira \nGrupo Coral Voz Ativa de Santana \nHugo Bentes\nInês Gonçalves\nJoão Guerreiro\nJorge Cruz \nJorge São Pedro\nLuis Espinho\nLuís Trigacheiro \nRancho de Cantadores da Aldeia Nova de São Bento \nMartim Helena \nMiguel Costa \nMiguel Pão Mole \nOs Moços da Aldêa \nPedro Guerra \nRubén Lameira \nRubén Ramos \nSimão Diogo\n\nLETRA\nNo Alentejo eu trabalho\nCultivando a dura terra\nVou fumando o meu cigarro\nVou cumprindo o meu horário\nLançando a semente à Terra\n\nÉ tão grande o Alentejo\n\nTanta terra abandonada\nA terra é que dá o pão\nPara o bem desta nação\nDevia s",
-      "published_at": "2024-11-27T09:00:06Z",
-      "category_id": "10",
-      "category_name": "Music",
-      "thumbnail": "https://i.ytimg.com/vi/aFipQWNuSJI/maxresdefault.jpg",
-      "duration": "PT4M35S",
-      "view_count": 1314504,
-      "like_count": 21636,
-      "pt_score": 0.52
-    },
-    {
-      "id": "9E8ZHWlOL8Y",
-      "title": "The Editory Hotels | SIC Jornal da Noite - Estações de Portugal: a viagem começa em Lisboa",
-      "channel_id": "UCNVZ7o9kJUhr8mz41yGC3hw",
-      "channel_name": "The Editory Collection Hotels",
-      "description": "O The Editory Riverside e o restaurante Impulso estiveram em destaque nesta reportagem da SIC Notícias dedicada às Estações de Portugal, mais especificamente às de Lisboa e, como não poderia deixar de ser, à de Santa Apolónia.",
-      "published_at": "2024-08-20T11:42:09Z",
-      "category_id": "19",
-      "category_name": "Travel & Events",
-      "thumbnail": "https://i.ytimg.com/vi/9E8ZHWlOL8Y/sddefault.jpg",
-      "duration": "PT14M17S",
-      "view_count": 5682,
+      "id": "BayuyFtBWos",
+      "title": "RTP 2 - Excertos Zig Zag 2007-2010",
+      "channel_id": "UCL21BYGFRhxMetC-6U-I8Zw",
+      "channel_name": "Ricardo Loureiro",
+      "description": "Compilação de alguns Excertos do Bloco Infantil Zig-Zag exibido pela RTP2 e apresentado por Pedro Leitão\nData: 2007 a 2010\nRTP2 VHS - Stereo Hi-Fi\n\n-Se Procuras Programas Antigos de TV que não existem aqui pelo Youtube, Passa pelo meu arquivo https://archive.org/details/@rlportugal-yt.\nNesse Link encontras várias gravações que infelizmente não podem ser publicadas no Youtube devido a Direitos de Autor.\n\n-Se procuras gravações de canais sem ser de Portugal passa neste linkhttps://www.youtube.com/@ricardoloureiro_INT , aqui encontras gravações de canais da América, Inglaterra, Espanha, França",
+      "published_at": "2025-02-23T16:01:37Z",
+      "category_id": "22",
+      "category_name": "People & Blogs",
+      "thumbnail": "https://i.ytimg.com/vi/BayuyFtBWos/maxresdefault.jpg",
+      "duration": "PT19M54S",
+      "view_count": 9426,
       "like_count": 58,
       "pt_score": 0.5
     },
@@ -839,39 +464,9 @@
       "category_name": "Sports",
       "thumbnail": "https://i.ytimg.com/vi/d5mtZPf4ZhA/maxresdefault.jpg",
       "duration": "PT9M21S",
-      "view_count": 253142,
+      "view_count": 253154,
       "like_count": 7825,
-      "pt_score": 0.7
-    },
-    {
-      "id": "_Q4-IDQfb1M",
-      "title": "O Que Faz A Empresa Portuguesa De Energia Que Lucrou Mais De €1B Em 2023?",
-      "channel_id": "UCxq4I0h__YSuZfW4yfeASfg",
-      "channel_name": "João Zoio",
-      "description": "(*Link patrocinado) Para investirem em ações e ETFs sem pagar comissões até aos 100.000€, terem acesso a uma plataforma de investimento excelente, usufruirem de um apoio ao cliente em português e sentirem a segurança de um escritório em Portugal, podem criar conta na XTB através deste link: https://bit.ly/3LFdwnA\n\n*Este vídeo tem um segmento patrocinado pela XTB, S.A - Sucursal em Portugal, que é regulada pela CMVM. \n\nEstamos quase a chegar ao fim do primeiro trimestre de 2024 o que significa que os resultados financeiros relativos ao desempenho das grandes empresas em 2023 já começaram a sair. Há uma empresa de energia portuguesa em específico que revelou lucros que superaram os mil milhões de euros, o valor mais alto da sua história. A saga de uma organização que, através da fusão estratégica de gigantes do petróleo e do gás, não só veio a culminar numa força incontornável no setor energético em Portugal, como também expandiu o seu horizonte para terras distantes, como o Brasil e Moçambique, culminando neste marco histórico que foi o seu desempenho financeiro. Neste vídeo, vamos mergulhar na história da Galp, desde a sua fundação, passando pela forma como atualmente está constituída e aos seus planos futuros que prometem moldar o panorama energético de Portugal e contribuir para um mundo cada vez mais sustentável. Além disso, explorar também quem vai ganhar, e quanto, com este lucro de mais de €1B em 2023. \n\nResponsável pela escrita:\nJoana Lucena de Sousa - https://www.linkedin.com/in/joanalucenadesousa/\n\n---\nINFORMAÇÃO GERAL ÚTIL\n\nAcompanhem o meu dia a dia no Instagram: https://www.instagram.com/joaozoio_/\n\nO meu nome é João Zoio e sou um jovem empreendedor com 22 anos que a partir dos 16 tem tido a oportunidade de estar inserido em cenários laborais exigentes e com um ritmo elevado.\n\nAtualmente presto consultoria de investimento imobiliário a clientes particulares, e consultoria de marketing a promotoras imobiliárias, depois de ter sido sócio de uma das melhore",
-      "published_at": "2024-03-24T21:30:07Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/_Q4-IDQfb1M/maxresdefault.jpg",
-      "duration": "PT9M54S",
-      "view_count": 16875,
-      "like_count": 986,
-      "pt_score": 0.52
-    },
-    {
-      "id": "O3Egj1vzt2U",
-      "title": "Resumo: FC Porto 5-0 Benfica (Liga 23/24 #24)",
-      "channel_id": "UCuIlu5oGIj1RzHOYmeSV5Eg",
-      "channel_name": "VSPORTS - Liga Portugal",
-      "description": "#VSPORTS #LigaPortugalBetclic #LigaPortugal\nFC Porto goleou o Benfica, por 5-0, no clássico da jornada 24 da Liga Betclic. Bis de Galeno, a juntar aos golos de Wendell, Pepê e Namaso, a confirmar o triunfo incontestável da equipa portista, perante o rival que nunca conseguiu realmente ameaçar a discussão do resultado.\n\nVSPORTS na Rede: https://go.vsports.pt/0eUei\nVSPORTS no Youtube: https://go.vsports.pt/GmFYC\nVSPORTS no Twitter: https://go.vsports.pt/mOM6E\nVSPORTS no Instagram: https://go.vsports.pt/eSvKW\nVSPORTS no Facebook: https://go.vsports.pt/Fv3zU\nVSPORTS no Telegram: https://go.vsports.pt/yx7Qt\nVSPORTS no Threads: https://go.vsports.pt/zriul\nVSPORTS no TikTok: https://go.vsports.pt/PMhLg\nVSPORTS no Google News: https://go.vsports.pt/wtEqX",
-      "published_at": "2024-03-03T23:27:43Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/O3Egj1vzt2U/maxresdefault.jpg",
-      "duration": "PT5M",
-      "view_count": 1051062,
-      "like_count": 15365,
-      "pt_score": 0.52
+      "pt_score": 0.62
     },
     {
       "id": "KmSXyaH-PSg",
@@ -884,9 +479,9 @@
       "category_name": "Education",
       "thumbnail": "https://i.ytimg.com/vi/KmSXyaH-PSg/maxresdefault.jpg",
       "duration": "PT14M45S",
-      "view_count": 38553,
+      "view_count": 38554,
       "like_count": 3156,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "ezJxP2OoFCM",
@@ -899,9 +494,9 @@
       "category_name": "Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/ezJxP2OoFCM/maxresdefault.jpg",
       "duration": "PT4M4S",
-      "view_count": 173785,
+      "view_count": 173801,
       "like_count": 1710,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "4djUWxRRftE",
@@ -916,7 +511,22 @@
       "duration": "PT4M10S",
       "view_count": 4959,
       "like_count": 60,
-      "pt_score": 0.52
+      "pt_score": 0.5
+    },
+    {
+      "id": "VFzf_0PlDGQ",
+      "title": "2023/11/17 - Manhã SIC Notícias, SIC Notícias",
+      "channel_id": "UC_57KgdoSEj4pwpRkZNhXgg",
+      "channel_name": "Pedro Brinca",
+      "description": "Comentários acerca da situação económica atual de Portugal e Europa, em particular da inflação, perspetivas orçamentais, pobreza e crescimento.",
+      "published_at": "2023-11-19T11:07:19Z",
+      "category_id": "17",
+      "category_name": "Sports",
+      "thumbnail": "https://i.ytimg.com/vi/VFzf_0PlDGQ/sddefault.jpg",
+      "duration": "PT7M8S",
+      "view_count": 1236,
+      "like_count": 8,
+      "pt_score": 0.5
     },
     {
       "id": "Q6z1vog6-h4",
@@ -929,9 +539,24 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/Q6z1vog6-h4/maxresdefault.jpg",
       "duration": "PT4M39S",
-      "view_count": 199393,
+      "view_count": 199493,
       "like_count": 1098,
-      "pt_score": 0.52
+      "pt_score": 0.5
+    },
+    {
+      "id": "UH4LIFD5g0s",
+      "title": "Somos Do Alentejo - As Mondadeiras (Full Álbum)",
+      "channel_id": "UCq7VXo0KXqM_ZPzNGi4WNcA",
+      "channel_name": "paisrealproducoes",
+      "description": "SOMOS DO ALENTEJO\nEP: AS MONDADEIRAS\nEDIÇÃO: 2023\nDisponível na sua plataforma digital favorita:\nhttps://bfan.link/as-mondadeiras\n\nAs Mondadeiras (Letra):\n\nMeu adorado Alentejo\nEstás tão triste e amargurado\nO teu passado eu revejo\nDa ceifeira e do arado\n\nAs fontes do Alentejo\nSecaram de tanto pranto\nCom saudades eu te vejo\nO teu lugar, teu encanto\n\nSaudades das mondadeiras\nMondando as ervas daninhas\nSaudades das aguadeiras\nTrazendo a água fresquinha\n\nTrazendo a água fresquinha\nSaudades das aguadeiras\nMondando as ervas daninhas\nSaudades das mondadeiras\n\nFlores com tanta beleza\nCores que ninguém pintou\nEspalhadas pela natureza\nFoi Deus quem as criou\n\nJá não é como era dantes\nE tudo o tempo mudou\nTudo se vai num instante\nAté a fonte secou\n\nSaudades das mondadeiras\nMondando as ervas daninhas\nSaudades das aguadeiras\nTrazendo a água fresquinha\n\nTrazendo a água fresquinha\nSaudades das aguadeiras\nMondando as ervas daninhas\nSaudades das mondadeiras\n\nFicha Técnica:\n\nArranjos: Américo Machado\nBaixo: André Varela\nGuitarras: Fábio Simão e António Parreira\nBandolim - Rogério Moraes\nAcordeon - Rui Matos\nCoros: Fábio Simão, Rogério Moraes e António Parreira \nVozes principais: Pedro Rosa e André Varela\nDireção de Vozes: Américo Machado \nMisturas: Daniel Duarte e Américo Machado\nMasterização: Daniel Duarte \nGravado nos Estúdios WILL RECORDS em Sarilhos Grandes - Montijo \n\nProdução: País Real\n\n01 - As Mondadeiras - L: António Parreira / M: Rogério Moraes\n02 - A Caldeirada - L: António Parreira/ M: Rogério Moraes \n\nWebsite: https://paisreal.com\nCanal YouTube: https://www.youtube.com/user/paisrealproducoes\nFacebook: https://www.facebook.com/PaisReal/\nInstagram: https://www.instagram.com/editorapaisreal/\nSpotify: https://open.spotify.com/user/wl0azfdslvrwfzwgq6238jiyi?si=3067e853a93244f8\n\n\nColoque um like e subscreva o canal País Real para ser o primeiro a ver os seus vídeos!\n\n#Paisreal #PaisRealproducoes #PaisRealEdicoes #SomosDoAlentejo #AsMondadeiras #popular #MusicaPopular #Portugal ",
+      "published_at": "2023-09-28T23:15:11Z",
+      "category_id": "10",
+      "category_name": "Music",
+      "thumbnail": "https://i.ytimg.com/vi/UH4LIFD5g0s/maxresdefault.jpg",
+      "duration": "PT6M54S",
+      "view_count": 648,
+      "like_count": 17,
+      "pt_score": 0.5
     },
     {
       "id": "efGmxPLKxiQ",
@@ -946,52 +571,7 @@
       "duration": "PT8M53S",
       "view_count": 80,
       "like_count": 2,
-      "pt_score": 0.52
-    },
-    {
-      "id": "J1aLzbKq5QE",
-      "title": "As causas do desequilibrio económico de Portugal",
-      "channel_id": "UCWHntLT7BkssV_cEWEsSiNg",
-      "channel_name": "Politugal",
-      "description": "Este video é uma tradução para português de um video mais antigo, ainda que tenha mais detalhes sobre o desiquilibrio económico que existe em Portugal, fruto das politicas desastrosas do último meio século...incluindo a adesão à União Europeia.\n\nVideo original em inglês: https://www.youtube.com/watch?v=3pIyocrHphs\n\nFontes:\n\nhttps://ensina.rtp.pt/explicador/a-adesao-de-portugal-as-comunidades-europeias/\n\nhttps://www.pordata.pt/portugal/populacao+empregada+total+e+por+grandes+setores+de+atividade+economica-32\n\nhttps://expresso.pt/economia/2023-02-09-Portugal-teve-em-2022-defice-comercial-mais-elevado-desde-que-ha-registos-55d12cc4\n\nhttps://www.pordata.pt/portugal/exportacoes++importacoes+e+saldo+da+balanca+de+bens+total+e+por+principais+grupos+de+paises+parceiros+comerciais-2341-181686\n\nhttps://eco.sapo.pt/2021/12/20/queda-do-pib-em-2020-foi-a-maior-desde-1954/\n\nhttps://ionline.sapo.pt/artigo/704520/portugal-regista-queda-historica-no-pib-no-segundo-trimestre\n\nSigam-me no Gab:\nhttps://gab.com/Politugal\n\nCanal Odysee:\nhttps://odysee.com/@Politugal:a?view=content",
-      "published_at": "2023-05-19T13:33:39Z",
-      "category_id": "24",
-      "category_name": "Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/J1aLzbKq5QE/maxresdefault.jpg",
-      "duration": "PT6M57S",
-      "view_count": 853,
-      "like_count": 93,
-      "pt_score": 0.52
-    },
-    {
-      "id": "P-bfzOVc4iA",
-      "title": "Como aumentar a RIQUEZA em PORTUGAL? | Cortes do Zuga #politica #portugal #gonçalosousa",
-      "channel_id": "UCPvHjnk3mt4jrGSvQkUSBWA",
-      "channel_name": "zugatv",
-      "description": "CONHECE A COMUNIDADE DO ZUGA? ENTRE AGORA NO NOSSO GRUPO DO WHATSAPP:\nhttps://chat.whatsapp.com/GWIULmLPNRV2Ea1ChBnmMj\n\nNOS AJUDE SE TORNANDO MEMBRO DO NOSSO CANAL:\nhttps://www.youtube.com/channel/UCPvHjnk3mt4jrGSvQkUSBWA/join\n\nGonçalo Sousa\nhttps://www.youtube.com/channel/UCHrcuJEgZhrCXhDT5W14_xQ\nhttps://www.instagram.com/topgoncalosousa/\n\nEpisódio Completo: https://youtube.com/live/9lmoXHOoupg\n\n___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ \nSe desejas contribuir para o canal podes fazê-lo utilizando uma das opções abaixo:\nMuito obrigado pela tua ajuda!\n\nPIX: 11716796709\nMBWAY: +351 915167672\nPaypal: https://www.paypal.com/donate?hosted_button_id=H6PFSR9EE9T5L\nBitcoin Address: 15LCdXiRWBZGVFtFLU2Riig7poZKDQ35L3\nEthereum Address: 0x69f7f2732CB0111c249765ea5631fC81dFF23dB4\n___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ \nANFITRIÕES:\nRodrigo: https://www.instagram.com/rodrigofront\n\nMarco: https://www.instagram.com/marcoacpinheiro\n___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___  \nCONTATO: \nzugapodcast@gmail.com\n___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ \nO Zuga Podcast é uma produção original Estúdio Zuga Produções Audiovisuais.\nEstamos em Vila Nova de Famalicão - Braga - Portugal.\nPara maiores informações:\nE-mail: estudiozuga@gmail.com\nTelemóvel/Whatsapp: +351 914374850",
-      "published_at": "2023-04-25T11:00:25Z",
-      "category_id": "25",
-      "category_name": "News & Politics",
-      "thumbnail": "https://i.ytimg.com/vi/P-bfzOVc4iA/maxresdefault.jpg",
-      "duration": "PT10M15S",
-      "view_count": 1320,
-      "like_count": 152,
-      "pt_score": 0.52
-    },
-    {
-      "id": "ZVLy6ciqrVc",
-      "title": "Portugal e França vão organizar temporada cruzada sobre ciência em 2024",
-      "channel_id": "UCn0cWqvxwJYQu6mofQ_57pg",
-      "channel_name": "LUSOPRESS",
-      "description": "Portugal e França vão organizar em 2024 uma temporada cruzada dedicada à ciência, à semelhança do que aconteceu no ano passado com a cultura, para aumentar o conhecimento mútuo sobre investigação científica. O anúncio foi feito pela ministra da Ciência, Tecnologia e Ensino Superior, Elvira Fortunato, numa conferência de imprensa na Embaixada de Portugal, em Paris. A Ministra revelou ainda que o acesso ao ensino superior dos lusodescendentes em Portugal irá ser simplificado.",
-      "published_at": "2023-03-22T14:26:47Z",
-      "category_id": "25",
-      "category_name": "News & Politics",
-      "thumbnail": "https://i.ytimg.com/vi/ZVLy6ciqrVc/maxresdefault.jpg",
-      "duration": "PT4M7S",
-      "view_count": 113,
-      "like_count": 1,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "o6_d5PpOCQY",
@@ -1004,24 +584,9 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/o6_d5PpOCQY/maxresdefault.jpg",
       "duration": "PT4M44S",
-      "view_count": 153418,
+      "view_count": 153465,
       "like_count": 828,
-      "pt_score": 0.5800000000000001
-    },
-    {
-      "id": "KavLnInHrwY",
-      "title": "Intervenção do Ministro do Ambiente de Portugal na Conferência “Clima Património da Humanidade”",
-      "channel_id": "UCsuBRgU_kl2A6goqBkcJdTA",
-      "channel_name": "CPLP - Comunidade dos Países de Língua Portuguesa",
-      "description": "Intervenção do Senhor Ministro do Ambiente e da Ação Climática de Portugal, Duarte Cordeiro.\nO Secretário Executivo da Comunidade dos Países de Língua Portuguesa (CPLP), Zacarias da Costa, participou na sessão de abertura da Conferência “Clima Património da Humanidade”. O evento realizou-se em formato híbrido, nos dias 28 e 29 de outubro de 2022, no auditório da Sede da Vodafone Portugal, em Lisboa. \nA organização do evento é da responsabilidade do Grupo de Missão para o reconhecimento do Clima como Património Comum da Humanidade, constituído por Common Home of Humanity, a Universidade do Porto, a Business as Nature, o Centro de Investigação Jurídico Económica e Eurocean, com o apoio institucional da CPLP.",
-      "published_at": "2022-11-07T11:56:58Z",
-      "category_id": "25",
-      "category_name": "News & Politics",
-      "thumbnail": "https://i.ytimg.com/vi/KavLnInHrwY/maxresdefault.jpg",
-      "duration": "PT13M31S",
-      "view_count": 154,
-      "like_count": 6,
-      "pt_score": 0.52
+      "pt_score": 0.54
     },
     {
       "id": "WMRwGZ6wr8w",
@@ -1034,39 +599,9 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/WMRwGZ6wr8w/maxresdefault.jpg",
       "duration": "PT15M7S",
-      "view_count": 549238,
-      "like_count": 9277,
-      "pt_score": 0.62
-    },
-    {
-      "id": "yvC9tFodwFU",
-      "title": "O BACALHAU À GOMES DE SÁ",
-      "channel_id": "UC2_uTGT238k0pnmTLbSc1eg",
-      "channel_name": "Paulo Oliveira",
-      "description": "Bacalhau à Gomes de Sá é a receita de bacalhau que todos conhecem, em Portugal a paixão por bacalhau não tem limites e existe sempre espaço para mais uma receita de bacalhau!! Hoje vamos fazer uma receita clássica portuguesa! \n\nLista de Ingredientes: \n- 500 gr de Batatas\n- 5 cebolas médias laminadas\n- 3 dentes de alho picados \n- 400 gr de bacalhau ( 2 postas aproximadamente)\n- 5 ovos \n- Azeitonas pretas \n- Azeite \n- Louro \n- Salsa \n- Sal e Pimenta \n\nPartilha com os teus amigos! 😉\nDeixa o teu precioso LIKE 👍\n\nWebsite: https://terapianofogo.pt/\n\n🔴 SUBSCREVE para veres os videos futuros 🔥\n\nOBRIGADO POR ASSISTIRES \n\nAH ! \n\nSegue no Instagram 👇👇\nhttps://www.instagram.com/terapianofogo/\n\nSegue no Facebook👇👇\nhttps://www.facebook.com/terapianofogo\n\n\nProdução e edição: Paulo e Célio Oliveira\n\nhttps://terapianofogo.pt/\nContacto: infoterapianofogo@gmail.com\n\n#bacalhau #bacalhauágomesdesá #receitasdebacalhau",
-      "published_at": "2022-10-08T20:00:11Z",
-      "category_id": "24",
-      "category_name": "Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/yvC9tFodwFU/maxresdefault.jpg",
-      "duration": "PT9M18S",
-      "view_count": 516705,
-      "like_count": 15754,
-      "pt_score": 0.52
-    },
-    {
-      "id": "rc4NrQG2HmA",
-      "title": "Viagem à Madeira // Vlog em português",
-      "channel_id": "UCDqH89_8ThHUWatP2sLC1Qw",
-      "channel_name": "Portuguese With Leo",
-      "description": "🏔 Vai a https://nordvpn.com/leonardo e usa o código LEONARDO para teres um desconto exclusivo no plano de 2 anos, mais 4 meses grátis. Experimenta a NordVPN sem riscos graças à garantia de reembolso nos primeiros 30 dias!\n\n📚 Recursos GRATUITOS: https://www.portuguesewithleo.com/pt/resources\n\n✅ Teste de Nível GRATUITO: https://portuguesewithleo.involve.me/quiz\n\n🎓 Aprende Português com os meus Cursos: https://www.portuguesewithleo.com/pt/course/all-courses\n\n🟢 Podcast de Português Intermédio: https://www.portuguesewithleo.com/pt/podcast/intermediate-portuguese-podcast\n\n🔴 Podcast de Português Principiante: https://www.portuguesewithleo.com/pt/podcast/beginner-portuguese\n\n🟡 Conteúdo Exclusivo no Patreon: https://www.patreon.com/c/portuguesewithleo\n\n🔵 Apoia o meu trabalho no PayPal: https://www.paypal.com/paypalme/leocmcoelho\n\n🌐 Website: https://www.portuguesewithleo.com/pt\n\n🔗 Todos os links num só lugar: https://www.portuguesewithleo.com/pt/links\n\n📱 Segue o Cunha no Instagram: https://www.instagram.com/joaofranciscocunha4/\n\n🕗 MARCAS TEMPORAIS 🕑\n0:00 - O objetivo desta viagem à Madeira\n1:05 - Tudo o que a Madeira tem para oferecer\n3:18 - Como fazer uma poncha\n5:43 - Levadas e percursos pedestres\n7:40 - Funchal\n10:02 - O Pico do Arieiro",
-      "published_at": "2022-09-12T16:55:02Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/rc4NrQG2HmA/maxresdefault.jpg",
-      "duration": "PT10M28S",
-      "view_count": 57121,
-      "like_count": 3484,
-      "pt_score": 0.52
+      "view_count": 549388,
+      "like_count": 9280,
+      "pt_score": 0.5
     },
     {
       "id": "5WIz64GY40g",
@@ -1079,39 +614,9 @@
       "category_name": "People & Blogs",
       "thumbnail": "https://i.ytimg.com/vi/5WIz64GY40g/maxresdefault.jpg",
       "duration": "PT14M57S",
-      "view_count": 233100,
+      "view_count": 233135,
       "like_count": 7262,
-      "pt_score": 0.52
-    },
-    {
-      "id": "0VsBmnfWPM8",
-      "title": "30 Curiosidades que no sabías de Portugal | ¿Por qué tienes que conocer Portugal?",
-      "channel_id": "UCwRvBitYM27PF-Yz2LSfABA",
-      "channel_name": "Explora Planet",
-      "description": "Veamos 30 Curiosidades que no sabías de Portugal y descubre ¿Por qué tienes que conocer Portugal?, Da respuestas a preguntas muy comunes como ¿Dónde está Portugal? Aspectos destacados de la Geografía de Portugal, de la Historia de Portugal. Visitaremos su hermosa capital Lisboa, hablaremos un poco de su historia, de los hermosos Barrios de Lisboa, del que en un tiempo fue el puente más largo de Europa, el puente Vasco da Gama, además de aspectos culturales como la comida Portuguesa, entre varias los famosos pastelitos de Belem, famosos sitios como Baixa y Avenida o de actividades únicas que puedes hacer en la ciudad como recorrerla en el Tranvía de Lisboa.\n\nPero no sólo visitaremos Lisboa, sino también otras ciudades y regiones de Portugal, comenzando con sus bellas islas Azores y Madeira, su ciudad más romántica Oporto, su ciudad Universitaria Coimbra, su primer capital Guimaraes, su bello territorio del Sur, Algarve entre otros.\n\nAdemás hablaremos de otros aspectos importantes del país, tales como sitios históricos como el monumento a los exploradores, el palacio da Pena de Sintra, el famoso parque natural de Ría Formosa, Serra da Estrela, Además de aspectos históricos importantes como la Era de los descubrimientos, el imperio Portugués, el idioma Portugués, la arquitectura Portuguesa, la economía de Portugal, la importancia de la Diáspora Portuguesa y cómo Portugal se ha convertido en un líder de energías renovables.\n\nPor todo esto y mucho más te invitamos a disfrutar con nosotros la exploración del increíble país de Portugal.\n\nTIMESTAMPS\n00:00 - Portugal\n00:42 - ¿Dónde está Portugal?\n01:22 - Geografía de Portugal\n01:55 - Historia de Portugal\n03:33 - Lisboa\n04:26 - Regiones y ciudades de Portugal\n05:38 - Costas de Portugal\n06:18 - El puente más largo de Europa\n06:49 - Azores\n07:40 - Madeira\n08:23 - Potencia marítima\n09:00 - La era de los descubrimientos\n09:31 - El imperio Portugués\n09:49 - El idioma Portugués\n10:18 - Arquitectura de Portugal\n10:57 - Barrios de L",
-      "published_at": "2021-12-25T22:58:50Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/0VsBmnfWPM8/maxresdefault.jpg",
-      "duration": "PT19M1S",
-      "view_count": 551347,
-      "like_count": 10636,
-      "pt_score": 0.56
-    },
-    {
-      "id": "6IqeBcjK_fk",
-      "title": "Sotaque e expressões dos AÇORES - São Miguel",
-      "channel_id": "UCDqH89_8ThHUWatP2sLC1Qw",
-      "channel_name": "Portuguese With Leo",
-      "description": "📚 Recursos GRATUITOS: https://www.portuguesewithleo.com/pt/resources\n\n✅ Teste de Nível GRATUITO: https://portuguesewithleo.involve.me/quiz\n\n🎓 Aprende Português com os meus Cursos: https://www.portuguesewithleo.com/pt/course/all-courses\n\n🟢 Podcast de Português Intermédio: https://www.portuguesewithleo.com/pt/podcast/intermediate-portuguese-podcast\n\n🔴 Podcast de Português Principiante: https://www.portuguesewithleo.com/pt/podcast/beginner-portuguese\n\n🟡 Conteúdo Exclusivo no Patreon: https://www.patreon.com/c/portuguesewithleo\n\n🔵 Apoia o meu trabalho no PayPal: https://www.paypal.com/paypalme/leocmcoelho\n\n🌐 Website: https://www.portuguesewithleo.com/pt\n\n🔗 Todos os links num só lugar: https://www.portuguesewithleo.com/pt/links\n\n🎬 Vídeos mencionados:\nVlog nos Açores: https://youtu.be/rOYxOKmde-g\nSotaque mais neutro de Portugal: https://youtu.be/pitj0XxYO7I\n\n🕗 MARCAS TEMPORAIS 🕑\n0:00 - Introdução\n0:57 - Algumas informações sobre os Açores\n2:27 - O sotaque de São Miguel\n4:43 - Palavras típicas de São Miguel\n12:55 - Expressões típicas de São Miguel\n14:07 - Palavras que vêm do inglês\n17:43 - Agradecimentos",
-      "published_at": "2021-11-08T17:00:04Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/6IqeBcjK_fk/maxresdefault.jpg",
-      "duration": "PT18M11S",
-      "view_count": 154486,
-      "like_count": 6825,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "G7yexXyPLAY",
@@ -1124,9 +629,9 @@
       "category_name": "Travel & Events",
       "thumbnail": "https://i.ytimg.com/vi/G7yexXyPLAY/maxresdefault.jpg",
       "duration": "PT14M39S",
-      "view_count": 167747,
+      "view_count": 167752,
       "like_count": 5898,
-      "pt_score": 0.79
+      "pt_score": 0.61
     },
     {
       "id": "Zs7RpRIIq0U",
@@ -1139,54 +644,9 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/Zs7RpRIIq0U/maxresdefault.jpg",
       "duration": "PT4M25S",
-      "view_count": 16421262,
-      "like_count": 86749,
-      "pt_score": 0.52
-    },
-    {
-      "id": "nDlJVstmaWQ",
-      "title": "Alex uhu Curtindo o Melhor Ambiente de Portugal",
-      "channel_id": "UCGWknOIFErxW-U-NFMbSAww",
-      "channel_name": "Alex uhu Portugal",
-      "description": "Alex uhu  Mostrando um Ambiente muito Aconchegante  em Vila Nova de Gaia em Portugal  Na areia da Praia  de Madalena",
-      "published_at": "2021-06-10T01:17:50Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/nDlJVstmaWQ/sddefault.jpg",
-      "duration": "PT12M56S",
-      "view_count": 106,
-      "like_count": 28,
-      "pt_score": 0.52
-    },
-    {
-      "id": "j2DlMMMNhFI",
-      "title": "Porto -  Cidade Barroca",
-      "channel_id": "UCZgVFjJ_SIja1KMT0EbTKaQ",
-      "channel_name": "TV CriaArte",
-      "description": "Video informal acerca daquela que é a cidade mais Barroca de Portugal. Vamos neste video conhecer o Porto, em especial o Arquiteto Nicolau Nasoni e as grandes obras Barrocas da cidade como o Paço Episcopal, a Igreja e Torre dos Clérigos, a Igreja da Misericórdia do Porto entre outros.\nMinutagem: \n01:08 - Barroco Português\n01:29 - Nicolau Nasoni\n\nParte I (Edificios Religiosos)\n02:56 - Paço Episcopal\n05:17 - Igreja e Torre dos Clérigos\n09:23 - Igreja da Misericórdia do Porto\n\nParte II (Edificios Civis)\n11:29 - Palácio do Freixo\n16:21 - Obelisco da Quinta da Prelada no Passeio Alegre\n\nLinks para museus citados no video:\nMuseu dos Clérigos: http://www.torredosclerigos.pt/pt/irmandade-dos-clerigos/museu-dos-clerigos/\nMuseu da Misericórdia do Porto: https://www.mmipo.pt\nPalácio do Freixo: https://www.pousadapalaciodofreixo.com\n\nLink para videos de Barroco no CriaArte:\nBarroco Italiano - https://www.youtube.com/watch?v=gjb84WVqYtA\nBarroco Espanhol - https://www.youtube.com/watch?v=LoafNzT-uHg&t=61s\nBarroco Holandês - https://www.youtube.com/watch?v=ApJsKy8d5xA\nBarroco Flamengo - https://www.youtube.com/watch?v=3eSmItiC4zc\nBarroco Inglês - https://youtu.be/Uaf8Wm8NDTY\nBarroco Português - https://www.youtube.com/watch?v=dSdSLiEO2k0\n\nLink para se tornar apoiante CriaArte e para obter acesso exclusivo a benefícios:\nhttps://www.youtube.com/channel/UCZgVFjJ_SIja1KMT0EbTKaQ/join\n\nLink para me pagar um café:  https://www.buymeacoffee.com/TVCriaArte\n\n#criaarte #barroco #porto",
-      "published_at": "2021-05-31T21:00:11Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/j2DlMMMNhFI/sddefault.jpg",
-      "duration": "PT19M38S",
-      "view_count": 1259,
-      "like_count": 129,
-      "pt_score": 0.52
-    },
-    {
-      "id": "QC0aDqmgrV4",
-      "title": "Pataniscas de Bacalhau | Receita tradicional Portuguesa",
-      "channel_id": "UCbsATBSnR36QCX6kSS2gf0Q",
-      "channel_name": "Tuga na Cozinha",
-      "description": "E que tal umas belas Pataniscas de Bacalhau ?... Mais uma das muitas formas de comer bacalhau em Portugal :)... Esta receita é muito fácil de fazer e fica um show!... Bora lá pessoal, bora cozinhar ;)...\n\nNão se esqueça de partilhar e deixar um like, muito obrigado ;)...\n---------------------------------------------------\nIngredientes\n\n1 Posta de Bacalhau\n15ml de Azeite\n1 Cebola pequena\n120g de farinha\n1 Ovo\n1 Limão\nLeite\nSalsa\nSal\nPimenta\nÓleo para fritar\n--------------------------------------------------\nOutras receitas de Bacalhau\n\nBacalhau à Zé do Pipo\nhttps://www.youtube.com/watch?v=hKblB0xzdJE&t=144s\n\nBacalhau à Lagareiro\nhttps://www.youtube.com/watch?v=IQ1mj8mDx14&t=552s\n\nBacalhau com Broa\nhttps://www.youtube.com/watch?v=8niUkEIuuGI&t=309s\n\nComo cozer Bacalhau\nhttps://www.youtube.com/watch?v=rasEN9oqVbQ&t=72s\n\nBacalhau Espiritual\nhttps://www.youtube.com/watch?v=EylVXeSV1cE\n\nBacalhau à Brás\nhttps://www.youtube.com/watch?v=8o4-6XKVCPU&t=313s\n\nBacalhau com Natas\nhttps://www.youtube.com/watch?v=Hl8a0XOUPQw&t=557s\n-------------------------------------------------\nSiga no Facebook\nhttps://www.facebook.com/Tuganacozinha\n\nSiga no Instagram\nhttps://www.instagram.com/tuganacozinha/\n\n00:00 - Receita\n02:46 - Publicidade\n03:42 - Receita",
-      "published_at": "2021-05-08T17:30:23Z",
-      "category_id": "26",
-      "category_name": "Howto & Style",
-      "thumbnail": "https://i.ytimg.com/vi/QC0aDqmgrV4/maxresdefault.jpg",
-      "duration": "PT6M10S",
-      "view_count": 180710,
-      "like_count": 4197,
-      "pt_score": 0.52
+      "view_count": 16423851,
+      "like_count": 86752,
+      "pt_score": 0.5
     },
     {
       "id": "ubUgL00fK7E",
@@ -1199,84 +659,9 @@
       "category_name": "Travel & Events",
       "thumbnail": "https://i.ytimg.com/vi/ubUgL00fK7E/maxresdefault.jpg",
       "duration": "PT11M44S",
-      "view_count": 283047,
+      "view_count": 283072,
       "like_count": 11325,
-      "pt_score": 0.7
-    },
-    {
-      "id": "CnsNa-tIT-U",
-      "title": "EP. 12 - AÇORES & NAZARÉ - Última session no arquipélago no meio do Oceano Atlântico #CanaldoChumbo​",
-      "channel_id": "UC9rX_6-cm0WzF62QkCMATEg",
-      "channel_name": "Lucas Chumbo",
-      "description": "Durante minha temporada em Portugal, viajamos para Açores, um arquipélago no meio do Oceano Atlântico para um swell e essa é a primeira parte da nossa experiência nesse lugar alucinante e depois voltamos para Nazaré e ainda rolou + SURF!  Acompanhe o meu canal! INSCREVA-SE! #CanaldoChumbo​ \n\nDireção Geral: Renan Vignoli \nImagens: Renan Vignoli\nEdição: Yunes Khader \nMotion Designer: Jordana Martins",
-      "published_at": "2021-04-27T16:00:17Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/CnsNa-tIT-U/maxresdefault.jpg",
-      "duration": "PT7M15S",
-      "view_count": 4563,
-      "like_count": 277,
-      "pt_score": 0.52
-    },
-    {
-      "id": "Y7aHsH-1D_g",
-      "title": "All Together Now Portugal na TVI: Bom ou Mau Programa?",
-      "channel_id": "UCYs87ZlKsnarZ4vcVecmNAg",
-      "channel_name": "My Sound Magazine",
-      "description": "All Together Now Portugal na TVI: Bom ou mau programa?\n\n\n\nPrimeiras impressões\n\n\nEste é o programa mais desejado da TVI desde que Cristina Ferreira chegou ao canal.\n\n\nCem jurados avaliam as novas vozes que tentam chegar ao número mágico dos 100.\n\n\nO entretenimento e a animação são o ponto fulcral deste programa, sendo muito mais do que um talent show.\n\n\nÉ diferente?\n\n\nSim, é diferente dos formatos que normalmente conhecemos da televisão portuguesa como é o caso do “The Voice” ou dos “Ídolos”.\n\n\nÉ parecido na sua essência com o “Rising Star” transmitido pela TVI, mas não passou da primeira edição.\n\n\nNão estamos limitados a jurados que conhecemos de ginjeira como é o caso dos programas da concorrência, tornando-se assim uma das principais diferenças. Mas será isto positivo?\n\n\nNovos talentos\n\n\nTal como todos os outros programas do género, o que nos vendem é que o objetivo é conhecer talentos desconhecidos.\n\n\nÀ semelhança de outros programas da concorrência, no All Together Now existem jurados mais desconhecidos do que alguns concorrentes.\n\n\nPara obter algum nível de qualidade, os cantores desconhecidos são mesclados com alguns cantores \"profissionais\".\n\n\nO All Together Now vai mostrar concorrentes que já passaram por outros talent shows e não conseguiram vingar no mundo do espetáculo.\n\n\nGrande aposta da TVI\n\n\nEsta é a grande aposta da TVI, não só para os domingos à noite, mas para ser o programa âncora de toda a grelha da estação.\n\n\nA mais-valia do júri levará a que a TVI possa convidar para os seus diversos programas, ao longo da semana, alguns dos seus 100 jurados.\n\n\nEntre entrevistas, histórias de vida e polémicas de capa de revista, estes 100 jurados serão esmiuçados pela comunicação social faminta de novidades televisivas.\n\n\nA publicidade gratuita ao programa é mais que certa ao longo das várias semanas que vai durar o All Together Now.\n\n\nCristina Ferreira\n\n\nCristina Ferreira foi durante vários anos uma das personalidades mais importantes da televisão portuguesa.\n",
-      "published_at": "2021-03-11T22:35:13Z",
-      "category_id": "24",
-      "category_name": "Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/Y7aHsH-1D_g/maxresdefault.jpg",
-      "duration": "PT6M45S",
-      "view_count": 366,
-      "like_count": 12,
-      "pt_score": 0.52
-    },
-    {
-      "id": "MhKXf93bBkI",
-      "title": "Saúde Digital em Portugal: Mais além do COVID19",
-      "channel_id": "UC3e_F3Eg8-UN7Dx02STNz6Q",
-      "channel_name": "Digital Health Portugal",
-      "description": "12:45 / 15:45 Saúde Digital em Portugal: Mais além do COVID19 (45')\n\nMix de apresentação de casos em sessões pararelas temáticas que serão moderadas por vários convidados.\n\nTema: Cuidados de saúde de nova geração\n\nJose Bastos “Da Favela ao Plano de Saúde - como a telemedicina made in Portugal está a mudar também o Brasil” https://knokcare.com/\n\nNuno Sobral \"TOOLTO Care: Nova ferramenta de gestão de serviços Healthcare\" https://toolto.com/\n\nFrederico Branco \"A tradição já não é o que era : Estetoscópio e bisturi e agora?\" https://www.fredericobranco.pt/\n\nJoão Figueiredo, CIO of Santa Casa da Misericórdia do Porto (Moderador)",
-      "published_at": "2021-02-18T18:19:02Z",
-      "category_id": "24",
-      "category_name": "Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/MhKXf93bBkI/maxresdefault.jpg",
-      "duration": "PT17M34S",
-      "view_count": 71,
-      "like_count": 2,
-      "pt_score": 0.52
-    },
-    {
-      "id": "htSFfrqEF8k",
-      "title": "Afonso Henriques: o Primeiro Rei",
-      "channel_id": "UCxLo4q-LcFeX17n8xNWxDKQ",
-      "channel_name": "Museu de Alberto Sampaio",
-      "description": "Afonso Henriques, o primeiro rei!\nEste curto filme de animação, produzido em 2009, com argumento e realização de Pedro Lino e resultante de uma parceria entre o Museu de Alberto Sampaio e a Câmara Municipal de Guimarães, foi desenvolvido no âmbito das comemorações dos 900 anos do nascimento de Afonso Henriques.\nA divertida animação dá a conhecer a vida e os feitos do primeiro rei de Portugal, fomentando, assim, o gosto pela História de Portugal.\nNo antigo canal de Youtube do Museu de Alberto Sampaio, este filme contava já com cerca de 510 000 visualizações!",
-      "published_at": "2020-11-23T09:05:34Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/htSFfrqEF8k/sddefault.jpg",
-      "duration": "PT5M30S",
-      "view_count": 113941,
-      "like_count": 1814,
-      "pt_score": 0.52
-    },
-    {
-      "id": "mUL-yfPHcNo",
-      "title": "Nena - portas do sol",
-      "channel_id": "UCWs1rujYqfaxH4oxqxqFtYA",
-      "channel_name": "nena_musica",
-      "description": "#nena #portasdosol \n\n\"portas do sol\" disponível em todas as plataformas digitais: https://NenaPortasDoSol.lnk.to/2gwGyStaID\n\n:: música ::\n\nletra e música: Nena\nprodução e arranjos: João Só\nvoz e coros: Nena\nguitarra acústica, guitarra elétrica, baixo, percussão, teclados: João Só\nguitarra Acústica: Phelippe Ferreira\nteclados: João Ferreira Gomes\nbateria: Miguel Casais  \n\n:: vídeo ::\n\nconceito: Nena\nrealização e montagem: Teresa de Almeida\ndirecção de fotografia: Tiago Ferreira\nassistente de produção: Madalena Malveiro\n\n:: letra ::\n\nNão me dás um sinal \nVou pela marginal a olhar pro rio \n\nOuço a rádio a dar \nE está a tocar, o que nos uniu\nPasso pelo Chiado, \nHistória em todo lado, o que tremeu \nUm dia meu amado\nAgora passado, no Rossio \n\nQuer tu esqueças ou guardes  \nMais cedo ou mais tarde \nvais te lembrar \n\nQue fomos como Lisboa \nE se isto não soa \nBem então não sei \nO que mais irá\nO que mais virá\n\nVimos esta paisagem \nComo uma miragem, mas não foi \n\nAli no miradouro \nDas portas do Sol \nUm “nós” surgiu \n\nCanto agora em Sintra, e mesmo que minta\nDiz se aí  \nQue esta frase que digo, de coração partido, \nÉ pra ti \n\nQuer tu esqueças ou guardes  \nMais cedo ou mais tarde \nvais te lembrar \n\nQue fomos como Lisboa \nE se isto não soa \nBem então não sei \nO que mais irá \nO que mais virá\n\nE tu estás cá ou estás fora \nUm antes no agora \nEm postal \n\nDiz ”não gostes  de alguém, \nQue sonha pra além de Portugal” \n\nQuer tu esqueças ou guardes  \nMais cedo ou mais tarde \nvais te lembrar \n\nQue fomos como Lisboa \nE se isto não soa \nBem então não sei \nO que mais irá \nO que mais virá\n\nFollow Nena\nInstagram: https://www.instagram.com/nena_musica/\nFacebook: https://www.facebook.com/itsnenamusic\nTikTok: https://www.tiktok.com/@nena_musica",
-      "published_at": "2020-09-25T09:21:22Z",
-      "category_id": "10",
-      "category_name": "Music",
-      "thumbnail": "https://i.ytimg.com/vi/mUL-yfPHcNo/maxresdefault.jpg",
-      "duration": "PT4M",
-      "view_count": 10869966,
-      "like_count": 67118,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "QKge-rLEZWg",
@@ -1291,52 +676,22 @@
       "duration": "PT13M28S",
       "view_count": 230,
       "like_count": 1,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
-      "id": "Uz7q8XUxeZ0",
-      "title": "António Zambujo & Rancho de Cantadores de Aldeia Nova de São Bento - trago alentejo na voz (letra)",
-      "channel_id": "UCax4xZCOgbmf9wL-YuByUfQ",
-      "channel_name": "portuscalept",
-      "description": "__ Trago Alentejo na Voz __\nComposição: José Luís Gordo\nhttps://www.youtube.com/watch?v=8GzxgG_LmqM&list=PLC_g0dKIMzZoeXz5xvZepETBf0rCE-N4r \n\nTrago Alentejo na voz\nDo cantar da minha gente\nAi rios de todos nós\nQue te perdes na corrente \nAi rios de todos nós\nQue te perdes na corrente\n\nAi planícies sonhadas\nAi sentir de olivais\nAi ventos na madrugada\nQue me transcendem demais\nAi ventos na madrugada\nQue me transcendem demais\n\nAmigos, amigos\nPapoilas no trigo\nSó lá eu as tenho\nE de braço dado\nContigo a meu lado\nÉ de lá que eu venho\nE de braço dado\nCantando ao amor\nGuardamos o gado\nPapoilas em flor\nQue o vento num brado\nRefresca o calor\nE de braço dado\nContigo a meu lado\nCantamos o amor\n\nAi rebanhos de saudades\nQue deixei naqueles montes\nAi pastores de ansiedade\nBebendo água nas fontes\nAi pastores de ansiedade\nBebendo água nas fontes\n\nAi sede das tardes quentes\nAi lembrança que me alcança\nAi terra prenhe de gente\nNos olhos duma criança\nAi terra prenhe de gente\nNos olhos duma criança\n\n“Música feita em Portugal”\nCriei este canal apenas para divulgar a música nacional, a língua portuguesa e a cultura lusófona. A seleção do repertório retrata uma opção estética meramente pessoal… Como não pretendo ganhar qualquer dinheiro com os vídeos, todos os benefícios são rentabilizados pelos “proprietários dos direitos de autor”.",
-      "published_at": "2020-03-03T18:58:08Z",
-      "category_id": "10",
-      "category_name": "Music",
-      "thumbnail": "https://i.ytimg.com/vi/Uz7q8XUxeZ0/maxresdefault.jpg",
-      "duration": "PT5M32S",
-      "view_count": 2130255,
-      "like_count": 13698,
-      "pt_score": 0.52
-    },
-    {
-      "id": "d5UGpnl11_A",
-      "title": "#PORTO#CIDADE##INVICTA#DRONE",
-      "channel_id": "UCVYlgP-cRuHQu9fB8QrbMFA",
-      "channel_name": "OVERFLY PT",
-      "description": "Mavic 2 Pro          INSCREVA-SE-SUBSCRIVE my Channel\n\nPorto é uma cidade costeira no noroeste de Portugal conhecida pelas pontes imponentes e pela produção de vinho do Porto. No distrito medieval de Ribeira, às margens do rio, ruas estreitas de paralelepípedos passam pelas casas e pelos restaurantes dos comerciantes. A Igreja de São Francisco é conhecida pelo interior barroco exuberante com esculturas douradas ornamentadas. O suntuoso Palácio da Bolsa, do século XIX, era um mercado de ações e foi construído para impressionar investidores europeus em potencial.",
-      "published_at": "2019-09-27T21:24:51Z",
-      "category_id": "1",
-      "category_name": "Film & Animation",
-      "thumbnail": "https://i.ytimg.com/vi/d5UGpnl11_A/maxresdefault.jpg",
-      "duration": "PT4M42S",
-      "view_count": 165,
-      "like_count": 21,
-      "pt_score": 0.52
-    },
-    {
-      "id": "iUHXM-QGYs0",
-      "title": "Olhão | Algarve Nature Fest (4K)",
-      "channel_id": "UCF8aFZdF55VMf0FTLUOVt7Q",
-      "channel_name": "Mais Algarve",
-      "description": "Olhão, cidade da restauração, proporcionou aos amantes de natureza, no seu Passeio Ribeirinho em Olhão, no fim de semana de 21 a 22 de setembro, o Algarve Nature Fest.\n\nCaminhadas e passeios guiados de bicicleta foram algumas das atividades disponíveis, para além de puderem aventurar-se diariamente no slide, numa parede de escalada, no surf mecânico, no stand up paddle, no tiro com arco, numa volta de caiaque, de segway, BTT ou em cima de bicicletas elétricas, todas em permanência no local, ao longo do dia, sem reserva. Para gostos mais enérgicos, havia ainda air bungee e aulas de pump, zumba, step e SFXCore.\n\nA inauguração oficial do Algarve Nature Fest aconteceu no dia 20 de setembro, tendo esse dia sido reservado aos alunos das escolas do segundo ciclo do Ensino Básico de Olhão, que  entre as diversas atividades possíveis, foram por exemplo desafiados a subir a bordo de um barco para pôr os olhos nas aves que sobrevoam a ria Formosa ou a fazer batismos de vela e de mergulho com empresas de animação turística locais. \n\nA esta população estudantil destina-se também uma ação especial que os sensibilou para a importância da preservação e da correta fruição do património natural algarvio. \n\nInserida no âmbito do projeto «SustenTUR Algarve – preservação do património natural e cultural da região do Algarve», operação candidata à Linha de Apoio à Sustentabilidade do Programa Valorizar do Turismo de Portugal, a iniciativa pretendeu transmitir aos mais jovens os valores de conservação da diversidade biológica e paisagística da região.\n\nOrganizado pela Região de Turismo do Algarve em parceria com a Câmara Municipal de Olhão, a Direção de Serviços da Região do Algarve da Direção-Geral dos Estabelecimentos Escolares e a Polícia de Segurança Pública, o festival teve também o apoio da CP – Comboios de Portugal, da Inframoura, da Decathlon, do grupo Gymnasium, da Águas do Algarve e do Real Marina Hotel & Spa.\n__________________________________________________________________\nOl",
-      "published_at": "2019-09-23T21:35:51Z",
-      "category_id": "24",
-      "category_name": "Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/iUHXM-QGYs0/maxresdefault.jpg",
-      "duration": "PT6M8S",
-      "view_count": 1638,
-      "like_count": 8,
-      "pt_score": 0.52
+      "id": "VhgL56LZbzo",
+      "title": "\"Boa Cama Boa Mesa\" na SIC Notícias: À descoberta da Aldeia Histórica de Marialva",
+      "channel_id": "UCIJIWm6t-MPwVrQ_mycC1Pg",
+      "channel_name": "Turismo Centro de Portugal",
+      "description": "O programa desta semana dá a conhecer o projeto Casas do Côro, premiado com uma Chave de Platina, pelo Guia Boa Cama Boa Mesa 2019, e que ajudou a colocar no mapa Marialva, uma das 12 Aldeias Históricas de Portugal. Aproveite a viagem para descobrir as Termas de Longroiva e o hotel que recentemente deu nova vida a esta localidade. Em Mêda, a sede de concelho, existem sabores renovados para provar no espaço O Mercado.\r\n\nO programa Boa Cama Boa Mesa na SIC Notícias estreou sábado, dia 27 de abril de 2019 e contou ainda com várias repetições, também na SIC Mulher e SIC Internacional.",
+      "published_at": "2019-12-05T16:43:00Z",
+      "category_id": "19",
+      "category_name": "Travel & Events",
+      "thumbnail": "https://i.ytimg.com/vi/VhgL56LZbzo/maxresdefault.jpg",
+      "duration": "PT9M41S",
+      "view_count": 3373,
+      "like_count": 33,
+      "pt_score": 0.5
     },
     {
       "id": "wdfK8HTmJic",
@@ -1349,54 +704,9 @@
       "category_name": "News & Politics",
       "thumbnail": "https://i.ytimg.com/vi/wdfK8HTmJic/maxresdefault.jpg",
       "duration": "PT11M24S",
-      "view_count": 4026,
+      "view_count": 4028,
       "like_count": 78,
-      "pt_score": 0.52
-    },
-    {
-      "id": "jxhRoBhkg08",
-      "title": "Corrupção em Portugal | Tiago Caiado Guerreiro | SIC Notícias",
-      "channel_id": "UC0g5Z86b5xnQQa50PCWbsxQ",
-      "channel_name": "Caiado Guerreiro",
-      "description": "Tiago Caiado Guerreiro comenta a desvalorização do investimento na Polícia Judiciária e as medidas que facilitam a existência de corrupção.",
-      "published_at": "2019-07-01T10:37:45Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/jxhRoBhkg08/maxresdefault.jpg",
-      "duration": "PT7M27S",
-      "view_count": 20192,
-      "like_count": 469,
-      "pt_score": 0.52
-    },
-    {
-      "id": "K0cwDEIkhS8",
-      "title": "TODA A HISTÓRIA DE PORTUGAL EM 9 MINUTOS | DESENHADOS",
-      "channel_id": "UCRYHHXmjqxa8WUBBxrG8r5Q",
-      "channel_name": "DESENHADOS",
-      "description": "TODA A HISTÓRIA DE PORTUGAL EM 9 MINUTOS | DESENHADOS\n\nNo vídeo de hoje começamos pelos Celtas, passamos pelos Bárbaros, chegamos em Pedro Alvares Cabral e terminamos com a Eurovisão ;)\n\n➥INSTAGRAM: https://www.instagram.com/desenhadosyt/\n➥FACEBOOK: https://www.facebook.com/desenhadosyt/\n\n\n➥DESENHO | Fábio Ramos | https://www.youtube.com/channel/UCEMj2Ia-SdkCwvV0HjPNXNA\n\n➥GUIONISTAS: \n\n›Pedro Durão | https://www.instagram.com/pedurao/\n›Ezequiel Duarte | https://www.facebook.com/ezequielduarte81\n›António Azevedo Coutinho | https://www.instagram.com/antonioacoutinho\n➥EDIÇÃO:\n›Ricardo Bacalhau | https://www.instagram.com/bacas.photos/\n\n➥PRODUÇÃO: THUMB MEDIA\nhttp://thumbmedia.net/",
-      "published_at": "2019-06-07T15:30:00Z",
-      "category_id": "24",
-      "category_name": "Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/K0cwDEIkhS8/maxresdefault.jpg",
-      "duration": "PT9M4S",
-      "view_count": 108778,
-      "like_count": 7337,
-      "pt_score": 0.52
-    },
-    {
-      "id": "fgjao8myshM",
-      "title": "Ciência no Sofá (Ep. 14) \"Uma História da Eletricidade em Portugal\" de João Figueira",
-      "channel_id": "UCdY-WMriksOEw7If4mAO0NA",
-      "channel_name": "RÓMULO Centro Ciência Viva Universidade de Coimbra",
-      "description": "No 14º episódio de Ciência no sofá”, o espaço de divulgação de livros de divulgação científica do RÓMULO Centro de Ciência Viva da Universidade de Coimbra, o Professor Carlos Fiolhais, apresenta-nos \"Uma História da Eletricidade em Portugal\" de João Figueira. Uma obra bilingue, editada pelos CTT em 2018.",
-      "published_at": "2018-06-15T09:00:03Z",
-      "category_id": "28",
-      "category_name": "Science & Technology",
-      "thumbnail": "https://i.ytimg.com/vi/fgjao8myshM/maxresdefault.jpg",
-      "duration": "PT4M19S",
-      "view_count": 345,
-      "like_count": 5,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "LVTnEb37kjI",
@@ -1409,24 +719,9 @@
       "category_name": "Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/LVTnEb37kjI/maxresdefault.jpg",
       "duration": "PT10M51S",
-      "view_count": 71055,
+      "view_count": 71062,
       "like_count": 2709,
-      "pt_score": 0.52
-    },
-    {
-      "id": "UK3lxwYkE2w",
-      "title": "Entrevista -  Visita do Ministro do Meio Ambiente de Portugal",
-      "channel_id": "UCwZqGjGQVbe9fLspsMVE87A",
-      "channel_name": "José Vitti",
-      "description": "José Vitti recebe o  Ministro do Meio Ambiente de Portugal, Carlos Martins. \n\"Ele nos prestigia a convite do deputado e amigo Deputado Wagner Siqueira para ministrar audiência pública sobre #ResíduosSólidos e extinção dos #Lixões. Em Portugal eles têm um case de sucesso nesse assunto e o ministro vai colaborar com o nosso Estado compartilhando suas experiências e dando boas dicas para avançarmos por aqui também. \" diz José Vitti",
-      "published_at": "2018-03-23T19:01:12Z",
-      "category_id": "25",
-      "category_name": "News & Politics",
-      "thumbnail": "https://i.ytimg.com/vi/UK3lxwYkE2w/maxresdefault.jpg",
-      "duration": "PT4M3S",
-      "view_count": 45,
-      "like_count": 0,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "pD8Re3WENjI",
@@ -1439,9 +734,9 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/pD8Re3WENjI/maxresdefault.jpg",
       "duration": "PT4M11S",
-      "view_count": 35664767,
-      "like_count": 137701,
-      "pt_score": 0.52
+      "view_count": 35667664,
+      "like_count": 137703,
+      "pt_score": 0.5
     },
     {
       "id": "VoFVYlHzWEs",
@@ -1454,69 +749,9 @@
       "category_name": "News & Politics",
       "thumbnail": "https://i.ytimg.com/vi/VoFVYlHzWEs/hqdefault.jpg",
       "duration": "PT14M48S",
-      "view_count": 98263,
+      "view_count": 98268,
       "like_count": 1411,
-      "pt_score": 0.52
-    },
-    {
-      "id": "TPPVW8bVDTs",
-      "title": "A Lenda da Rainha Santa Isabel | Lendas de Portugal | ANIMATED | Practice Portuguese",
-      "channel_id": "UCRR8BOCXjSMU8O2TdzAFbww",
-      "channel_name": "Practice Portuguese",
-      "description": "Note: Premium Version with Portuguese Subtitles available at https://www.practiceportuguese.com/register \n----\n\nFeaturing the voices of Ana Coimbra e Rui Coimbra Sénior, and written by Ana Coimbra.\n----------------------------\n \nJá conheces a lenda da Rainha Santa, uma das mais bonitas lendas portuguesas? Ela fala-nos de um milagre, mas o mais importante é a mensagem de solidariedade que ela nos deixa.\n\nVer com legendas / Watch with Subtitles: https://www.practiceportuguese.com\n\nSubscribe: https://itunes.apple.com/ca/podcast/practice-portuguese/id599326719?mt=2\n\nPractice Portuguese is for the European Portuguese learner who wants to take the next step towards improving their listening and speaking skills. Don't worry if you can't understand everything at first. Just keep listening and your comprehension will improve with each episode.\n\nA melhor forma de aprender uma língua é ser exposto a diálogos da vida real com pessoas nativas dessa língua. Practice Portuguese é para estudantes de português europeu que procuram dar o próximo passo em conversação e compreensão oral.\n\n#lendas #practiceportuguese #europeanportuguese",
-      "published_at": "2016-06-30T18:05:02Z",
-      "category_id": "1",
-      "category_name": "Film & Animation",
-      "thumbnail": "https://i.ytimg.com/vi/TPPVW8bVDTs/maxresdefault.jpg",
-      "duration": "PT8M40S",
-      "view_count": 241870,
-      "like_count": 4276,
-      "pt_score": 0.52
-    },
-    {
-      "id": "cXCazHyqE1A",
-      "title": "45 anos Região Turismo do Algarve",
-      "channel_id": "UCUgBiNHavwKVBeHK7vlgxuw",
-      "channel_name": "Margem Films",
-      "description": "45 anos Região Turismo do Algarve\n\nMargem Films\nDocumentary films\nCinema\nCommercial TV\nMusic Videos\nEvents",
-      "published_at": "2016-05-05T18:30:59Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/cXCazHyqE1A/maxresdefault.jpg",
-      "duration": "PT10M",
-      "view_count": 770,
-      "like_count": 2,
-      "pt_score": 0.52
-    },
-    {
-      "id": "NmXsHd2Hmxs",
-      "title": "Há Ciência #14 - Cobras em Portugal",
-      "channel_id": "UCoHJB6rx8qO9PgxgAoWwbYQ",
-      "channel_name": "Associação BioLiving",
-      "description": "28-01-2015 Há cobras venenosas em Portugal?\n\n“Há Ciência na Província” é um espaço de ciência da Rádio Província 100.8 FM que pretende apresentar notícias do mundo da ciência, da natureza, curiosidades, mas também dar respostas a perguntas dos ouvintes. É um espaço aberto que conta com a bióloga Milene Matos, investigadora no Departamento de Biologia da Universidade de Aveiro e coordenadora do projeto BIO Somos Todos. Se tiver alguma questão que queira ver respondida, bastará enviar um email para biosomostodos@gmail.com.\nEste espaço conta assim com a chancela do Departamento de Biologia da Universidade de Aveiro.",
-      "published_at": "2016-01-28T11:59:03Z",
-      "category_id": "22",
-      "category_name": "People & Blogs",
-      "thumbnail": "https://i.ytimg.com/vi/NmXsHd2Hmxs/maxresdefault.jpg",
-      "duration": "PT5M46S",
-      "view_count": 780,
-      "like_count": 4,
-      "pt_score": 0.52
-    },
-    {
-      "id": "8lHrmpqWq_4",
-      "title": "Por onde vai a economia portuguesa? | Pedro Lains | TEDxFCTUNL",
-      "channel_id": "UCsT0YIqwnpJCM-mx7-gSA4Q",
-      "channel_name": "TEDx Talks",
-      "description": "É licenciado e agregado em Economia pela Universidade Nova de Lisboa e doutorado em História pelo Instituto Universitário Europeu. Publicou recentemente os livros Paying for the Liberal State. The Rise of Public Finances in Nineteenth Century Europe (com J.L. Cardoso, Cambridge University Press, 2010); História da Caixa Geral de Depósitos, 1876-2010 (3 vols., Imprensa de Ciências Sociais, 2002-2011); e An Economic History of Portugal and Its Empire, 1143-2010 (com L.F. Costa e S.M. Miranda, Cambridge University Press, 2015). Trabalha presentemente sobre crescimento económico no longo prazo e a história do Banco de Portugal.\n\nPedro Lains é investigador coordenador do Instituto de Ciências Sociais da Universidade de Lisboa e professor convidado da Faculdade de Economia e Gestão da Universidade Católica Portuguesa e da Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa.\n\nThis talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at http://ted.com/tedx",
-      "published_at": "2015-09-02T20:47:29Z",
-      "category_id": "29",
-      "category_name": "Nonprofits & Activism",
-      "thumbnail": "https://i.ytimg.com/vi/8lHrmpqWq_4/maxresdefault.jpg",
-      "duration": "PT17M25S",
-      "view_count": 4692,
-      "like_count": 75,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "3LDfs7wmgcY",
@@ -1529,9 +764,9 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/3LDfs7wmgcY/maxresdefault.jpg",
       "duration": "PT5M2S",
-      "view_count": 28068,
+      "view_count": 28073,
       "like_count": 142,
-      "pt_score": 0.52
+      "pt_score": 0.5
     },
     {
       "id": "_APQkVHrn9s",
@@ -1544,38 +779,8 @@
       "category_name": "Music",
       "thumbnail": "https://i.ytimg.com/vi/_APQkVHrn9s/maxresdefault.jpg",
       "duration": "PT5M5S",
-      "view_count": 76074,
-      "like_count": 1015,
-      "pt_score": 0.52
-    },
-    {
-      "id": "jY7sDHutPdE",
-      "title": "\"História da Ciência em Portugal\"",
-      "channel_id": "UCiOCzvjkIF_qQ-bWy2JSBuw",
-      "channel_name": "FÁBRICA Centro Ciência Viva de Aveiro",
-      "description": "CAFÉ, LIVROS E CIÊNCIA\nEm março realizou-se uma sessão do ciclo «Café, Livros e Ciência» na Fábrica Centro Ciência Viva de Aveiro. A sessão na qual foi apresentado o livro \"História da Ciência em Portugal\" de Carlos Fiolhais, destinou-se ao público em geral.\n\nEsta obra constitui uma síntese da história da ciência em Portugal, de forma descritiva mas também interpretativa. É dada uma panorâmica de sete séculos de ciência e as razões para as oscilações que se verificaram. Incluiu episódios curiosos que o autor teve oportunidade de partilhar com o público.",
-      "published_at": "2014-05-07T14:40:45Z",
-      "category_id": "28",
-      "category_name": "Science & Technology",
-      "thumbnail": "https://i.ytimg.com/vi/jY7sDHutPdE/maxresdefault.jpg",
-      "duration": "PT10M17S",
-      "view_count": 507,
-      "like_count": 8,
-      "pt_score": 0.52
-    },
-    {
-      "id": "4fyqFmXb2wU",
-      "title": "Guimarães (CIM do Ave) - mini-documentário (PT)",
-      "channel_id": "UCErZjc8tiAx-_fEnkPN78yw",
-      "channel_name": "Comunidade Intermunicipal do Ave",
-      "description": "A mini-documentary about Guimarães\nCoordination: Comunidade Intermunicipal do Ave\nProduction, CECS, University of Minho\nDirected by Martin Dale\nCinematography/Editing: Filipe Leite, João Braga, Martin Dale, Paulo Reis, Pedro Alves, Sérgio Costa, Vasco Ferreira\nMusic by Luke Daniel Neumann (Love Is, The Final Door, More than Pawns, The Singularity)\nDVD production: Formigueiro Lda.\nSupport: Municipality of Guimarães\nFinancing in framework of ON.2 of QREN",
-      "published_at": "2013-09-19T09:26:55Z",
-      "category_id": "1",
-      "category_name": "Film & Animation",
-      "thumbnail": "https://i.ytimg.com/vi/4fyqFmXb2wU/maxresdefault.jpg",
-      "duration": "PT11M20S",
-      "view_count": 76287,
-      "like_count": 742,
+      "view_count": 76124,
+      "like_count": 1016,
       "pt_score": 0.5
     },
     {
@@ -1591,21 +796,6 @@
       "duration": "PT12M37S",
       "view_count": 113,
       "like_count": 0,
-      "pt_score": 0.5800000000000001
-    },
-    {
-      "id": "aG2FQ-PLk-s",
-      "title": "Meio Ambiente | Portugal Natura",
-      "channel_id": "UC-7IAYCRpYwUT8KEN6F5D7A",
-      "channel_name": "Luís Pedro Ferreira",
-      "description": "Meio Ambiente | Biologia e Geologia - Portugal Natura\n\nPortugal Natura um espaço que procura divulgar e promover a Preservação do Meio Ambiente incentivando a discussão sobre temas relacionados com a Biologia e Geologia. \n\nApresentação de algumas das mais belas paisagens de Portugal ao som da emblemática música de Carlos Paredes, Verdes Anos, interpretada pelo Quinteto de Coimbra e com a participação de Belle Chase Hotel.",
-      "published_at": "2012-05-27T16:06:45Z",
-      "category_id": "27",
-      "category_name": "Education",
-      "thumbnail": "https://i.ytimg.com/vi/aG2FQ-PLk-s/maxresdefault.jpg",
-      "duration": "PT5M36S",
-      "view_count": 1073,
-      "like_count": 6,
       "pt_score": 0.52
     },
     {
@@ -1621,7 +811,7 @@
       "duration": "PT5M30S",
       "view_count": 3786,
       "like_count": 19,
-      "pt_score": 0.52
+      "pt_score": 0.5
     }
   ]
 }
