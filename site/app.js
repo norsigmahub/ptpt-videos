@@ -147,7 +147,7 @@
 
     el.innerHTML =
       `<strong>${esc(showing)}</strong> vídeo${data.total_videos === 1 ? '' : 's'} &middot; ` +
-      `<strong>${esc(String(data.total_channels))}</strong> cana${data.total_channels === 1 ? 'l' : 'is'} &middot; ` +
+      `<a href="canais.html" class="nav-link"><strong>${esc(String(data.total_channels))}</strong> cana${data.total_channels === 1 ? 'l' : 'is'}</a> &middot; ` +
       `Actualizado: ${esc(updated)}`;
   }
 
