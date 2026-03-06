@@ -1,23 +1,8 @@
 {
   "last_updated": "2026-03-06T09:01:28.624496+00:00",
-  "total_videos": 465,
+  "total_videos": 464,
   "total_channels": 92,
   "videos": [
-    {
-      "id": "PNUIRguaxfY",
-      "title": "TVINEWS - PRIMEIRA PARTE - 05/03/2026",
-      "channel_id": "UC5E9dczJORMi_IQHZruJi1g",
-      "channel_name": "TVI ",
-      "description": "TVI - Acesse nosso portal www.tviplay.com.br\r\n\r\nInstagram -   @tviplayoficial\r\nTwitter -         @tv_iplay\r\nfacebook -     www.facebook.com/tviplaylive",
-      "published_at": "2026-03-06T01:11:11Z",
-      "category_id": "25",
-      "category_name": "Notícias",
-      "thumbnail": "https://i.ytimg.com/vi/PNUIRguaxfY/maxresdefault.jpg",
-      "duration": "PT14M34S",
-      "view_count": 1,
-      "like_count": 0,
-      "pt_score": 1.0
-    },
     {
       "id": "tJOWqTF3yRc",
       "title": "Morita: “O Sporting CP é uma família. Posso dizê-lo do fundo do coração”",
@@ -161,7 +146,7 @@
       "description": "Menina de três meses precisa de transplante de medula óssea e família desespera na Póvoa de Varzim\n\nFamília vive um momento “assustador” e precisa de ajuda para encontrar um dador para a criança. Saiba mais em: https://www.cmjornal.pt/",
       "published_at": "2026-03-04T16:24:35Z",
       "category_id": "22",
-      "category_name": "Infantil",
+      "category_name": "Notícias",
       "thumbnail": "https://i.ytimg.com/vi/UBSgF2fSTJ0/maxresdefault.jpg",
       "duration": "PT5M",
       "view_count": 165,

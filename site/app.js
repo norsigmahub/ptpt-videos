@@ -10,6 +10,7 @@
     'Education':             'Educação',
     'Entertainment':         'Entretenimento',
     'Film & Animation':      'Cinema & Animação',
+    'Gaming':                'Videojogos',
     'Howto & Style':         'Tutoriais & Estilo',
     'Music':                 'Música',
     'News & Politics':       'Notícias & Política',

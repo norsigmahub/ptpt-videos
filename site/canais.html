@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canais PT — Índice de canais em português europeu</title>
+  <meta name="description" content="Todos os canais do YouTube indexados com vídeos em português europeu (pt-PT).">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="header-left">
+        <h1 class="site-title"><a href="index.html">&#127477;&#127481; Vídeos PT</a></h1>
+        <p class="site-tagline">Canais em português europeu</p>
+      </div>
+      <div class="header-right">
+        <a href="index.html" class="nav-link">Vídeos</a>
+        <span id="stat-channels">A carregar…</span>
+      </div>
+    </div>
+  </header>
+
+  <div class="controls-bar">
+    <div class="container">
+      <div class="search-wrap">
+        <label for="search" class="sr-only">Pesquisar canais</label>
+        <input
+          type="search"
+          id="search"
+          class="search-input"
+          placeholder="Pesquisar canais…"
+          autocomplete="off"
+          spellcheck="false"
+        >
+      </div>
+    </div>
+  </div>
+
+  <main class="container" id="main-content">
+    <div class="channel-grid" id="channel-grid">
+      <div class="empty-state"><p>A carregar canais…</p></div>
+    </div>
+    <div id="no-results" class="empty-state hidden">
+      <p>Nenhum canal encontrado para <strong id="no-results-query"></strong>.</p>
+      <button class="btn-reset" id="btn-reset">Limpar pesquisa</button>
+    </div>
+  </main>
+
+  <script src="canais.js"></script>
+</body>
+</html>
